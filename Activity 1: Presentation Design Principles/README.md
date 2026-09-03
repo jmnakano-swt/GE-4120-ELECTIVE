@@ -52,7 +52,7 @@ These principles helped me organize the elements of the poster and make the info
 
 The first principle I applied was **Contrast**.
 
-I made sure that the main text, **"FREE COFFEE,"** stood out prominently against the white background. The strong black-and-white contrast immediately attracts the viewer's attention to the most important information.
+I made sure that the main text, **"FREE COFFEE,"** stood out prominently against the brown-white background. The strong brown-and-white contrast immediately attracts the viewer's attention to the most important information.
 
 This follows the principle that:
 
