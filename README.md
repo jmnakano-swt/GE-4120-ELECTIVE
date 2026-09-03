@@ -15,9 +15,6 @@ This activity explores the importance of developing a personal brand. It include
 ### 3. 📱 Social Media Infographic
 This activity focuses on creating an informative and engaging infographic designed for social media. It demonstrates how information can be presented creatively and clearly using digital design principles.
 
-### 4. 📂 Project Documentation
-This section contains the documentation of my projects and activities throughout the course. It highlights the process, outputs, experiences, and learning gained from each activity.
-
 ## 🎯 Purpose of This Hub
 
 This hub serves as a collection of my **GE 4120 activities and outputs**, documenting my progress and development of digital skills throughout the course.
