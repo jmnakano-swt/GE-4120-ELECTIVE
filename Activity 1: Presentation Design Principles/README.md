@@ -1,6 +1,4 @@
 
-# Presentation Design Principles Using Canva
-
 ## Activity 1: Free Coffee Poster
 
 ### Introduction
