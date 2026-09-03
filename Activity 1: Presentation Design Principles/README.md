@@ -29,7 +29,7 @@ When someone looks at a poster, their attention is usually directed toward certa
 
 For this reason, the design emphasizes the main message, **"FREE COFFEE,"** while keeping the supporting information organized and easy to read.
 
-The overall design uses a clean and simple appearance. The black-and-white color scheme helps maintain a professional and uncluttered look while allowing the main message to stand out.
+The overall design uses a clean and simple appearance. The brown-and-white color scheme helps maintain a professional and uncluttered look while allowing the main message to stand out.
 
 The goal was not to add unnecessary elements, but to make sure that the existing information was presented in a way that was clear, organized, and easy for the audience to understand.
 
