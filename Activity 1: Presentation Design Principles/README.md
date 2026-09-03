@@ -5,7 +5,7 @@
 
 For Activity 1, I applied the core principles of presentation design using **Canva** to recreate and develop a simple but effective social media graphic: a **"Free Coffee" poster**.
 
-The design was based on the Canva/diagram provided for the activity. Rather than creating the concept or wording from scratch, I followed the given design and applied the presentation design principles discussed in class.
+The design was based on the diagram provided for the activity. Rather than creating the  wording from scratch, I followed the given words and applied the presentation design principles discussed in class.
 
 The poster features the main message:
 
