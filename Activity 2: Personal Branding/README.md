@@ -25,7 +25,7 @@ The concept for **The Mori's Club** was to create a brand identity that feels:
 
 I wanted the overall visual identity to create the feeling of **clean beauty** while still maintaining a romantic and feminine character.
 
-The design uses a combination of soft pastel colors, a rich maroon accent, and carefully selected typography to communicate these qualities.
+The design uses a combination of soft pink tones, natural olive green, ivory, and a rich burgundy accent. Carefully selected typography is also used to communicate these qualities.
 
 The purpose of creating a consistent visual system is to make sure that the brand maintains the same look and feel across different materials and platforms.
 
@@ -35,63 +35,75 @@ A consistent visual identity helps make a brand more recognizable, memorable, an
 
 # Color Palette
 
-For the color palette, I selected **soft, powdery pastel colors combined with a rich maroon red** to complement the personality of *The Mori's Club*.
+For the color palette, I selected **soft, feminine pastel tones combined with natural olive green, ivory, and a rich burgundy accent** to complement the personality of *The Mori's Club*.
 
 The main colors include:
 
-- **Gentle Rose Pink**
-- **Muted Sage Green**
-- **Creamy Off-White**
-- **Maroon Red**
+- **Burgundy – #6E2638**
+- **Dusty Rose – #C98F9D**
+- **Baby Pink – #F4D6DC**
+- **Olive Green – #68704A**
+- **Ivory – #FFF9EF**
 
 Each color was selected because it contributes a different quality to the overall brand identity.
 
-### Gentle Rose Pink
+### Burgundy – #6E2638
 
-The soft rose pink represents the **feminine and romantic** qualities of the brand.
+Burgundy serves as the **rich and sophisticated accent color** of the palette.
 
-Pink is often associated with softness, delicacy, warmth, and femininity. Using a muted and gentle shade instead of a very bright pink allows the design to remain elegant and sophisticated.
+It adds depth, confidence, elegance, and a sense of luxury to the softer colors. The deeper tone creates stronger visual emphasis and gives the brand a more mature and sophisticated character.
 
-This color helps communicate the softer side of *The Mori's Club* while supporting the romantic concept of the brand.
+Burgundy can be used for important headings, highlights, borders, logos, or other elements that need stronger visual attention.
 
-### Muted Sage Green
+### Dusty Rose – #C98F9D
 
-The muted sage green adds a **natural and refreshing element** to the color palette.
+Dusty rose represents the **feminine, romantic, and soft** qualities of the brand.
 
-Green is associated with nature, freshness, and cleanliness, which supports the **clean beauty** concept of the brand.
+Its muted appearance gives the color an elegant and mature feeling rather than appearing overly bright or playful.
 
-The muted quality of the green also prevents it from becoming too bright or overwhelming. Instead, it works harmoniously with the soft pink, maroon red, and off-white.
+It works well as a supporting color because it adds warmth and femininity while complementing the burgundy and baby pink tones.
 
-### Creamy Off-White
+### Baby Pink – #F4D6DC
 
-The creamy off-white acts as a **neutral and grounding color** within the palette.
+Baby pink adds a **delicate, gentle, and youthful** quality to the brand.
 
-It contributes to the feelings of **elegance, simplicity, purity, and cleanliness**.
+The light pink tone strengthens the romantic and feminine concept while creating a soft visual atmosphere.
 
-Instead of using a very bright white, the creamy tone gives the brand a softer and warmer appearance. It also provides balance between the other colors and prevents the palette from feeling too intense.
+It can be used as a background, secondary color, or subtle design element to create a light and welcoming appearance.
 
-### Maroon Red
+### Olive Green – #68704A
 
-The maroon red adds a **rich, sophisticated, and elegant accent** to the color palette.
+Olive green introduces a **natural and earthy element** into the color palette.
 
-While the rose pink, sage green, and creamy off-white create a soft and delicate atmosphere, the maroon red adds depth and stronger visual emphasis.
+Green can communicate nature, freshness, and balance, which supports the **clean beauty** concept of *The Mori's Club*.
 
-The deeper red tone represents **passion, confidence, richness, and sophistication**, giving the brand a more mature and luxurious quality.
+The muted olive tone also creates a sophisticated contrast with the pink shades and burgundy without making the palette feel too bright.
 
-I used maroon red as an accent color so that it complements the softer colors without overpowering them. It also creates a stronger contrast within the palette and can be used to highlight important elements of the brand.
+### Ivory – #FFF9EF
+
+Ivory functions as the **main neutral and grounding color** within the palette.
+
+It creates a feeling of elegance, warmth, simplicity, and cleanliness.
+
+Unlike pure white, ivory has a softer and warmer appearance, allowing the other colors to stand out while maintaining a calm and sophisticated visual identity.
+
+It can also be used as a background color to keep the overall design clean and spacious.
 
 ### Overall Color Palette
 
-Together, the four colors create a balanced and harmonious visual identity.
+Together, the five colors create a balanced and harmonious visual identity.
 
 The:
 
-- **Rose pink** communicates femininity, softness, and romance.
-- **Sage green** communicates nature, freshness, and clean beauty.
-- **Creamy off-white** communicates elegance, simplicity, and purity.
-- **Maroon red** communicates richness, confidence, passion, and sophistication.
+- **Burgundy (#6E2638)** communicates richness, confidence, elegance, and sophistication.
+- **Dusty Rose (#C98F9D)** communicates femininity, warmth, softness, and romance.
+- **Baby Pink (#F4D6DC)** communicates delicacy, gentleness, and femininity.
+- **Olive Green (#68704A)** communicates nature, balance, freshness, and clean beauty.
+- **Ivory (#FFF9EF)** communicates elegance, simplicity, warmth, and cleanliness.
 
 The combination creates a palette that allows *The Mori's Club* to feel **soft and feminine while still having depth, elegance, and personality**.
+
+The burgundy provides a strong visual anchor, while the dusty rose and baby pink soften the overall appearance. Olive green introduces a natural quality, and ivory keeps the design clean and balanced.
 
 ---
 
@@ -232,7 +244,7 @@ The combination of the color palette and typography creates a unified identity f
 
 The colors establish the emotional and visual mood of the brand, while the typography communicates its personality and makes the information easier to organize.
 
-The soft colors create the feeling of **femininity, romance, nature, and clean beauty**, while the maroon red adds depth, richness, and sophistication.
+The soft pink tones create the feeling of **femininity and romance**, while the olive green introduces nature and clean beauty. Ivory keeps the overall design light, warm, and elegant, while burgundy adds depth, richness, and sophistication.
 
 The typography adds elegance, modernity, readability, and personality.
 
@@ -273,7 +285,7 @@ Every design choice can communicate something about the brand.
 
 The colors I selected were intended to communicate **softness, femininity, romance, nature, cleanliness, elegance, and sophistication**.
 
-The addition of maroon red also helped give the palette more depth and allowed the brand to have a stronger accent color without losing its soft and feminine character.
+The addition of burgundy helped give the palette more depth and allowed the brand to have a stronger accent color without losing its soft and feminine character.
 
 Similarly, each font was assigned a specific role so that the typography would remain both visually interesting and functional.
 
@@ -289,7 +301,7 @@ This activity allowed me to think about design choices more intentionally and un
 
 This activity demonstrated how **color and typography can be used to communicate a brand's personality and create a consistent visual identity**.
 
-For *The Mori's Club*, the combination of soft pastel colors, maroon red, and three complementary fonts creates a brand that feels:
+For *The Mori's Club*, the combination of soft pink tones, olive green, ivory, burgundy, and three complementary fonts creates a brand that feels:
 
 - Soft
 - Feminine
@@ -323,10 +335,30 @@ Ultimately, I learned that a successful visual identity is not simply about choo
 | **Project** | The Mori's Club |
 | **Design Tool** | Canva |
 | **Main Concept** | Soft, feminine, elegant, romantic, and clean beauty |
-| **Color Palette** | Gentle Rose Pink, Muted Sage Green, Creamy Off-White, Maroon Red |
+| **Color Palette** | Burgundy #6E2638, Dusty Rose #C98F9D, Baby Pink #F4D6DC, Olive Green #68704A, Ivory #FFF9EF |
 | **Display Font** | Noto Serif Display Extra Condensed |
 | **Body Font** | Garet |
 | **Accent Font** | Script-like Accent Font |
 | **Design Focus** | Brand identity and visual consistency |
 
-> **Note:** The purpose of this activity was to develop a cohesive color palette and typography system that visually represents the personality and identity of the fictional brand, *The Mori's Club*.
+> **Note:** The purpose of this activity was to develop a cohesive color palette and typography system that visually represents the personality and identity of the fictional brand, *The Mori's Club*. The selected colors—**Burgundy (#6E2638), Dusty Rose (#C98F9D), Baby Pink (#F4D6DC), Olive Green (#68704A), and Ivory (#FFF9EF)**—work together to create a soft, feminine, elegant, romantic, and sophisticated visual identity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
