@@ -11,7 +11,7 @@ The poster features the main message:
 
 > **"FREE COFFEE"**
 
-It also includes the tagline provided in the design:
+It also includes the tagline provided:
 
 > **"Free coffee. No catch. Just caffeine and good vibes."**
 
