@@ -5,13 +5,13 @@
 
 For Activity 1, I applied the core principles of presentation design using **Canva** to recreate and develop a simple but effective social media graphic: a **"Free Coffee" poster**.
 
-The design was based on the diagram provided for the activity. Rather than creating the  wording from scratch, I followed the given words and applied the presentation design principles discussed in class.
+The wording was based on the canva provided for the activity. Rather than creating the concept or wording from scratch, I followed the given words and applied the presentation design principles discussed in class.
 
 The poster features the main message:
 
 > **"FREE COFFEE"**
 
-It also includes the tagline provided:
+It also includes the tagline provided in the design:
 
 > **"Free coffee. No catch. Just caffeine and good vibes."**
 
@@ -29,7 +29,9 @@ When someone looks at a poster, their attention is usually directed toward certa
 
 For this reason, the design emphasizes the main message, **"FREE COFFEE,"** while keeping the supporting information organized and easy to read.
 
-The overall design uses a clean and simple appearance. The brown-and-white color scheme helps maintain a professional and uncluttered look while allowing the main message to stand out.
+The overall design uses a clean and simple appearance. The **brown-and-white color scheme** helps maintain a warm, inviting, and uncluttered look while allowing the main message to stand out.
+
+The brown color also complements the coffee theme and gives the poster a warm and welcoming visual impression.
 
 The goal was not to add unnecessary elements, but to make sure that the existing information was presented in a way that was clear, organized, and easy for the audience to understand.
 
@@ -52,7 +54,7 @@ These principles helped me organize the elements of the poster and make the info
 
 The first principle I applied was **Contrast**.
 
-I made sure that the main text, **"FREE COFFEE,"** stood out prominently against the brown-white background. The strong brown-and-white contrast immediately attracts the viewer's attention to the most important information.
+I made sure that the main text, **"FREE COFFEE,"** stood out prominently against the white background. The strong **brown-and-white contrast** immediately attracts the viewer's attention to the most important information.
 
 This follows the principle that:
 
@@ -78,9 +80,11 @@ Contrast helped:
 
 The second principle I applied was **Repetition**.
 
-I maintained consistency by reusing the same font style and color scheme throughout the poster.
+I maintained consistency by reusing the same font style and **brown-and-white color scheme** throughout the poster.
 
-The monochrome black-and-white palette and consistent typography make the different elements feel connected rather than appearing as separate or unrelated parts.
+The consistent use of brown and white and the uniform typography make the different elements feel connected rather than appearing as separate or unrelated parts.
+
+The brown color also works well with the coffee theme because it creates a warm and inviting visual impression.
 
 Repetition creates consistency and helps the audience **learn to read the design quickly**.
 
@@ -93,6 +97,7 @@ Repetition helped:
 - Maintain visual consistency.
 - Create a cohesive appearance.
 - Make the design look more organized.
+- Strengthen the coffee-related theme.
 - Avoid unnecessary visual distractions.
 - Give the poster a more professional appearance.
 
@@ -177,7 +182,7 @@ The second benefit is **better retention**.
 
 The clean and consistent design makes the main message visually distinct and easier to remember.
 
-The limited color palette, consistent typography, and organized layout prevent unnecessary distractions and allow the audience to focus on the important information.
+The **brown-and-white color palette**, consistent typography, and organized layout prevent unnecessary distractions and allow the audience to focus on the important information.
 
 ### Better Organization
 
@@ -221,7 +226,7 @@ Ultimately, I learned that **effective presentation design is not just about how
 - **Canva** – used to create and arrange the poster
 - Canva grid and alignment tools
 - Typography
-- brown-and-white color scheme
+- **Brown-and-white color scheme**
 - Presentation design principles
 
 ---
@@ -235,11 +240,19 @@ Ultimately, I learned that **effective presentation design is not just about how
 | **Design Tool** | Canva |
 | **Main Concept** | Presentation and visual design |
 | **Principles Applied** | Contrast, Repetition, Alignment, Proximity |
-| **Color Scheme** | Black and White |
+| **Color Scheme** | Brown and White |
 | **Main Text** | "FREE COFFEE" |
 | **Tagline** | "Free coffee. No catch. Just caffeine and good vibes." |
 | **Call-to-Action** | "First come, First served" |
 
 > **Note:** The main message and tagline were provided as part of the given design. The activity focused on applying the presentation design principles to the provided content.
-```
+
+
+
+
+
+
+
+
+
 
