@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6E2638,35:C98F9D,65:F4D6DC,100:68704A&height=250&section=header&text=THE%20MORI'S%20CLUB&fontSize=48&fontColor=FFF9EF&fontAlignY=42&desc=COLOR%20PALETTE%20%26%20TYPOGRAPHY%20STUDY&descSize=13&descColor=FFF9EF&descAlignY=65" width="100%"/>
