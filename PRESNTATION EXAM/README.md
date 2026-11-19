@@ -1,20 +1,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4285F4&height=190&section=header&text=GOOGLE%20WORKSPACE&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=GOOGLE%20FORMS%20%26%20GOOGLE%20MEET&descSize=17&descAlignY=65&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8F9FF&height=220&section=header&text=THE%20DIGITAL%20WORKSPACE&fontSize=35&fontColor=26345B&fontAlignY=38&desc=GOOGLE%20FORMS%20%26%20GOOGLE%20MEET&descSize=17&descAlignY=62&descColor=4285F4" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PRESENTATION%20EXAM-DIGITAL%20COLLABORATION-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TOOLS-GOOGLE%20FORMS%20%26%20MEET-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GE%204120-PRESENTATION%20EXAM-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-DIGITAL%20COLLABORATION-34A853?style=flat-square"/>
+<img src="https://img.shields.io/badge/TOOLS-GOOGLE%20WORKSPACE-FBBC04?style=flat-square"/>
 
 <br/><br/>
 
 # GOOGLE FORMS & GOOGLE MEET
 
-### *Creating, communicating, and collaborating in the digital world.*
+### *A modern guide to creating, connecting, and collaborating.*
 
-<sub>GE 4120 · ELECTIVES: 21ST CENTURY IT SKILLS</sub>
+<sub>UNDERSTANDING THE TOOLS THAT MAKE DIGITAL COMMUNICATION EASIER</sub>
+
+<br/>
 
 </div>
 
@@ -22,349 +25,465 @@
 
 <div align="center">
 
-## 01 — INTRODUCTION
-### *Two tools. One connected digital experience.*
+# Ⅰ. THE INTRODUCTION
+
+### Two applications. Endless possibilities.
 
 </div>
 
-Technology has changed the way people communicate, gather information, and work together. Among the many digital tools available today, **Google Forms** and **Google Meet** are two useful applications under Google Workspace.
+In today's digital world, technology plays an important role in how people communicate, learn, and organize information. Google Forms and Google Meet are two useful applications under Google Workspace that help make everyday tasks more efficient.
 
-Google Forms allows users to create online forms, surveys, quizzes, and questionnaires to collect information efficiently.
+While Google Forms focuses on collecting and organizing information, Google Meet makes real-time communication possible through virtual meetings.
 
-Google Meet, on the other hand, is a video communication platform that allows people to conduct online meetings, virtual classes, discussions, and presentations.
+Together, they support a more connected and convenient digital experience.
 
-Together, these tools support digital learning, communication, collaboration, and information management.
+<div align="center">
 
-<details>
-<summary><b>✦ QUICK OVERVIEW</b></summary>
+| <img src="https://img.icons8.com/color/96/google-forms.png" width="55"/> | <img src="https://img.icons8.com/color/96/google-meet.png" width="55"/> |
+|:---:|:---:|
+| **GOOGLE FORMS** | **GOOGLE MEET** |
+| Create · Collect · Analyze | Connect · Communicate · Collaborate |
+| <sub>Information collection</sub> | <sub>Virtual communication</sub> |
 
-| APPLICATION | MAIN PURPOSE |
-|:---|:---|
-| Google Forms | Creating forms, surveys, and quizzes |
-| Google Meet | Conducting online meetings and video conferences |
-
-</details>
+</div>
 
 ---
 
 <div align="center">
 
-## 02 — GOOGLE FORMS
-### *Collect information. Organize responses. Make better decisions.*
+# Ⅱ. GOOGLE FORMS
 
-<img src="https://img.icons8.com/color/96/google-forms.png" width="75"/>
+### *Where questions become information.*
+
+<img src="https://img.icons8.com/color/96/google-forms.png" width="85"/>
+
+<sub>01 / INFORMATION COLLECTION TOOL</sub>
 
 </div>
 
 ### What is Google Forms?
 
-<text color="#4285F4">Google Forms</text> is a free online form-building tool offered by Google. It allows users to create digital questionnaires, surveys, registration forms, feedback forms, and quizzes.
+Google Forms is an online form-building application developed by Google. It allows users to create digital surveys, questionnaires, registration forms, feedback forms, and quizzes.
 
-Responses are automatically collected and organized, making it easier to review information without manually gathering paper documents.
+It automatically collects and organizes submitted responses, making information gathering easier and more convenient.
 
-### How does Google Forms work?
+### HOW DOES IT WORK?
 
-The process is simple and user-friendly:
-
-<box border radius="lg" padding={3} gap={3}>
+<box border radius="xl" padding={3} gap={3}>
   <row align=center gap={3}>
-    <badge color="info">01</badge>
-    **Create a form**
+    <box background="#E8F0FE" radius="lg" size="44px" align=center justify=center>
+      <icon name="file-plus-2" color="#4285F4" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **01 — CREATE**
+
+      <text color="secondary" size="sm">Start with a blank form or select a template.</text>
+    </box>
   </row>
-  Start with a blank form or choose a ready-made template.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="info">02</badge>
-    **Add questions**
+    <box background="#FCE8E6" radius="lg" size="44px" align=center justify=center>
+      <icon name="list-plus" color="#EA4335" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **02 — ADD QUESTIONS**
+
+      <text color="secondary" size="sm">Choose question formats and enter the information you want to collect.</text>
+    </box>
   </row>
-  Choose question types such as multiple choice, short answer, checkboxes, or dropdowns.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="info">03</badge>
-    **Customize and share**
+    <box background="#FEF7E0" radius="lg" size="44px" align=center justify=center>
+      <icon name="send" color="#F9AB00" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **03 — SHARE**
+
+      <text color="secondary" size="sm">Send the form using a link, email, or other available sharing options.</text>
+    </box>
   </row>
-  Add a title, description, theme, and settings. Share the form through a link, email, or other supported options.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="info">04</badge>
-    **Collect responses**
+    <box background="#E6F4EA" radius="lg" size="44px" align=center justify=center>
+      <icon name="inbox" color="#34A853" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **04 — COLLECT**
+
+      <text color="secondary" size="sm">Respondents submit their answers online.</text>
+    </box>
   </row>
-  Respondents answer the questions using their devices.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="success">05</badge>
-    **Analyze results**
+    <box background="#F3E8FD" radius="lg" size="44px" align=center justify=center>
+      <icon name="chart-no-axes-combined" color="#9334E6" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **05 — ANALYZE**
+
+      <text color="secondary" size="sm">Review summaries, individual answers, and organize responses in Google Sheets.</text>
+    </box>
   </row>
-  View response summaries, individual answers, and export data to Google Sheets.
 </box>
 
-### Main features of Google Forms
+### THE FEATURES
 
-| FEATURE | DESCRIPTION |
-|:---|:---|
-| Multiple Question Types | Supports different ways of collecting answers |
-| Customization | Allows users to change themes, colors, and headers |
-| Quiz Mode | Allows creation of quizzes with answer keys and scoring |
-| Response Collection | Automatically gathers submitted answers |
-| Response Summary | Displays charts and summaries of collected responses |
-| Google Sheets Integration | Allows responses to be organized and analyzed in spreadsheets |
-| Sharing Options | Makes it easy to distribute forms to respondents |
-
-### What is Google Forms used for?
-
-<grid columns={2} gap={2}>
+<grid columns={2} gap={3}>
   <grid-item>
-    <box background="#E8F0FE" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="clipboard-list" color="#1A73E8" size="2xl"/>
-      **Surveys**
-
-      <text color="#344054" size="sm">Collect opinions and feedback from a group of people.</text>
+    <box background="#E8F0FE" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="list-checks" color="#4285F4" size="2xl"/>
+      **Question Types**
+      <text color="#344054" size="sm">Multiple choice, checkboxes, dropdowns, and short answers.</text>
     </box>
   </grid-item>
   <grid-item>
-    <box background="#E6F4EA" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="graduation-cap" color="#188038" size="2xl"/>
-      **Online Quizzes**
-
-      <text color="#344054" size="sm">Create assessments and knowledge checks for students.</text>
+    <box background="#FCE8E6" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="palette" color="#EA4335" size="2xl"/>
+      **Customization**
+      <text color="#344054" size="sm">Personalize themes, colors, titles, and headers.</text>
     </box>
   </grid-item>
   <grid-item>
-    <box background="#FCE8E6" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="clipboard-check" color="#D93025" size="2xl"/>
-      **Registration**
-
-      <text color="#344054" size="sm">Gather participant information for events and activities.</text>
+    <box background="#FEF7E0" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="graduation-cap" color="#F9AB00" size="2xl"/>
+      **Quiz Mode**
+      <text color="#344054" size="sm">Create assessments with answer keys and scoring.</text>
     </box>
   </grid-item>
   <grid-item>
-    <box background="#FEF7E0" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="message-square-text" color="#B06000" size="2xl"/>
-      **Feedback Forms**
-
-      <text color="#344054" size="sm">Understand experiences and identify areas for improvement.</text>
+    <box background="#E6F4EA" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="table" color="#34A853" size="2xl"/>
+      **Google Sheets**
+      <text color="#344054" size="sm">Organize and further analyze collected responses.</text>
     </box>
   </grid-item>
 </grid>
 
-### Advantages and limitations
+### WHERE CAN WE USE IT?
 
-| ADVANTAGES | LIMITATIONS |
+| APPLICATION | EXAMPLE |
 |:---|:---|
-| Easy to create and share | Requires internet access for online use |
-| Automatically organizes responses | Limited advanced customization |
-| Reduces paper usage | Not designed for complex data analysis |
-| Supports quizzes and surveys | Response quality depends on participants |
-| Integrates with Google Sheets | Some settings and features depend on account permissions |
+| Education | Online quizzes and assessments |
+| Research | Surveys and questionnaires |
+| Events | Registration and attendance forms |
+| Business | Customer feedback and evaluation |
+| Healthcare Education | Nursing knowledge assessments |
 
-### Practical example
+<box background="#F5F8FF" radius="xl" padding={3} gap={2}>
+  <row align=center gap={2}>
+    <icon name="lightbulb" color="#4285F4" size="lg"/>
+    **A NURSING STUDENT'S EXAMPLE**
+  </row>
+  A nursing instructor can create a Google Forms quiz about infection prevention. Students answer online, and the instructor can review the results to identify which topics need more discussion.
+</box>
 
-**In a nursing classroom:** An instructor can use Google Forms to create a quiz about infection prevention, collect students' answers, and review the results to identify topics that need further discussion.
+### THE GOOD & THE LIMITATIONS
+
+<grid columns={2} gap={2}>
+  <grid-item>
+    **<text color="#188038" inline>ADVANTAGES</text>**
+    - Easy to create and share
+    - Automatic response collection
+    - Reduces paper usage
+    - Supports quizzes and surveys
+    - Integrates with Google Sheets
+  </grid-item>
+  <grid-item>
+    **<text color="#D93025" inline>LIMITATIONS</text>**
+    - Online use requires internet
+    - Limited advanced customization
+    - Not designed for complex analysis
+    - Response quality varies
+    - Some features depend on account settings
+  </grid-item>
+</grid>
 
 ---
 
 <div align="center">
 
-## 03 — GOOGLE MEET
-### *Connect from anywhere. Communicate in real time.*
+# Ⅲ. GOOGLE MEET
 
-<img src="https://img.icons8.com/color/96/google-meet.png" width="75"/>
+### *Bringing people closer, wherever they are.*
+
+<img src="https://img.icons8.com/color/96/google-meet.png" width="85"/>
+
+<sub>02 / VIDEO COMMUNICATION TOOL</sub>
 
 </div>
 
 ### What is Google Meet?
 
-<text color="#34A853">Google Meet</text> is a video communication platform developed by Google. It allows users to communicate through online video meetings and audio calls.
+Google Meet is a video communication platform developed by Google. It allows users to connect through online video meetings and audio calls.
 
 It is commonly used for virtual classes, business meetings, interviews, group discussions, consultations, and presentations.
 
-Through Google Meet, participants can communicate even when they are physically in different locations.
+### HOW DOES IT WORK?
 
-### How does Google Meet work?
+<box border radius="xl" padding={3} gap={3}>
+  <row align=center gap={3}>
+    <box background="#E6F4EA" radius="lg" size="44px" align=center justify=center>
+      <icon name="calendar-plus" color="#34A853" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **01 — CREATE OR SCHEDULE**
 
-<box border radius="lg" padding={3} gap={3}>
-  <row align=center gap={3}>
-    <badge color="success">01</badge>
-    **Start or schedule a meeting**
+      <text color="secondary" size="sm">Start an instant meeting or schedule one through Google Calendar.</text>
+    </box>
   </row>
-  A user can create an instant meeting or schedule one through Google Calendar.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="success">02</badge>
-    **Share the meeting link**
+    <box background="#E8F0FE" radius="lg" size="44px" align=center justify=center>
+      <icon name="link" color="#4285F4" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **02 — SHARE THE LINK**
+
+      <text color="secondary" size="sm">Invite participants using a meeting link or calendar invitation.</text>
+    </box>
   </row>
-  Participants receive a meeting link or invitation.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="success">03</badge>
-    **Join the meeting**
+    <box background="#FCE8E6" radius="lg" size="44px" align=center justify=center>
+      <icon name="video" color="#EA4335" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **03 — JOIN**
+
+      <text color="secondary" size="sm">Open the link, check your microphone and camera, and join the meeting.</text>
+    </box>
   </row>
-  Participants open the link, check their microphone and camera, and join.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="success">04</badge>
-    **Communicate and collaborate**
+    <box background="#FEF7E0" radius="lg" size="44px" align=center justify=center>
+      <icon name="messages-square" color="#F9AB00" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **04 — COMMUNICATE**
+
+      <text color="secondary" size="sm">Talk, chat, share screens, and collaborate with other participants.</text>
+    </box>
   </row>
-  Participants can speak, use chat, present their screens, and use other available meeting features.
   <divider color="subtle"/>
   <row align=center gap={3}>
-    <badge color="success">05</badge>
-    **End the meeting**
+    <box background="#F3E8FD" radius="lg" size="44px" align=center justify=center>
+      <icon name="phone-off" color="#9334E6" size="xl"/>
+    </box>
+    <box flex="1" gap={1}>
+      **05 — END THE MEETING**
+
+      <text color="secondary" size="sm">Leave the meeting when the discussion or presentation is finished.</text>
+    </box>
   </row>
-  The host or participants can leave the meeting when the discussion is finished.
 </box>
 
-### Main features of Google Meet
+### THE FEATURES
 
-| FEATURE | DESCRIPTION |
-|:---|:---|
-| Video Conferencing | Allows participants to see and hear each other |
-| Screen Sharing | Allows users to present slides, documents, and screens |
-| In-Meeting Chat | Allows participants to send written messages |
-| Virtual Backgrounds | Provides background effects on supported devices |
-| Live Captions | Displays spoken words as text when supported |
-| Meeting Controls | Provides options to manage microphones, cameras, and participants |
-| Google Calendar Integration | Allows users to schedule and organize meetings |
-| Recording | Available on eligible Google Workspace editions and accounts |
-
-### What is Google Meet used for?
-
-<grid columns={2} gap={2}>
+<grid columns={2} gap={3}>
   <grid-item>
-    <box background="#E6F4EA" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="book-open" color="#188038" size="2xl"/>
-      **Online Classes**
-
-      <text color="#344054" size="sm">Teachers and students can conduct virtual lessons.</text>
+    <box background="#E8F0FE" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="video" color="#4285F4" size="2xl"/>
+      **Video Conferencing**
+      <text color="#344054" size="sm">Communicate with participants in real time.</text>
     </box>
   </grid-item>
   <grid-item>
-    <box background="#E8F0FE" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="briefcase-business" color="#1A73E8" size="2xl"/>
-      **Business Meetings**
-
-      <text color="#344054" size="sm">Teams can discuss plans and coordinate tasks remotely.</text>
+    <box background="#E6F4EA" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="monitor-up" color="#34A853" size="2xl"/>
+      **Screen Sharing**
+      <text color="#344054" size="sm">Present slides, documents, and other materials.</text>
     </box>
   </grid-item>
   <grid-item>
-    <box background="#FCE8E6" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="users" color="#D93025" size="2xl"/>
-      **Group Discussions**
-
-      <text color="#344054" size="sm">Members can collaborate even when working remotely.</text>
+    <box background="#FCE8E6" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="message-circle" color="#EA4335" size="2xl"/>
+      **In-Meeting Chat**
+      <text color="#344054" size="sm">Send written messages during meetings.</text>
     </box>
   </grid-item>
   <grid-item>
-    <box background="#FEF7E0" theme="light" radius="lg" padding={3} gap={1}>
-      <icon name="presentation" color="#B06000" size="2xl"/>
-      **Presentations**
-
-      <text color="#344054" size="sm">Users can share their screens and present materials.</text>
+    <box background="#FEF7E0" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="captions" color="#F9AB00" size="2xl"/>
+      **Live Captions**
+      <text color="#344054" size="sm">Display spoken words as text when supported.</text>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box background="#F3E8FD" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="calendar-days" color="#9334E6" size="2xl"/>
+      **Calendar Integration**
+      <text color="#344054" size="sm">Schedule and organize virtual meetings.</text>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box background="#FCE8E6" theme="light" radius="xl" padding={3} gap={2}>
+      <icon name="video-icon" color="#EA4335" size="2xl"/>
+      **Meeting Recording**
+      <text color="#344054" size="sm">Record meetings on eligible accounts and plans.</text>
     </box>
   </grid-item>
 </grid>
 
-### Advantages and limitations
+### WHERE CAN WE USE IT?
 
-| ADVANTAGES | LIMITATIONS |
+| APPLICATION | EXAMPLE |
 |:---|:---|
-| Enables remote communication | Requires a stable internet connection |
-| Supports real-time collaboration | Audio or video may lag with poor connectivity |
-| Screen sharing supports presentations | Prolonged meetings can cause screen fatigue |
-| Integrates with Google Calendar | Some advanced features require eligible plans |
-| Accessible across supported devices | Requires suitable devices and permissions |
+| Education | Online classes and virtual lectures |
+| Business | Team meetings and project discussions |
+| Healthcare Education | Case presentations and consultations |
+| Interviews | Online job interviews |
+| Collaboration | Group projects and planning sessions |
 
-### Practical example
-
-**In nursing education:** Nursing students can use Google Meet to conduct group reporting, discuss patient case studies, practice presentations, and attend online consultations with instructors.
-
----
-
-<div align="center">
-
-## 04 — GOOGLE FORMS VS. GOOGLE MEET
-### *Different functions. Shared purpose.*
-
-</div>
-
-| COMPARISON | GOOGLE FORMS | GOOGLE MEET |
-|:---|:---|:---|
-| Main Function | Information collection | Online communication |
-| Type | Form-building tool | Video conferencing tool |
-| Interaction | Responding to questions | Real-time conversation |
-| Output | Responses and collected data | Meetings and discussions |
-| Common Use | Surveys and quizzes | Classes and meetings |
-| Collaboration | Collects information from users | Connects people virtually |
-
-<div align="center">
-
-### THE KEY DIFFERENCE
-
-**Google Forms collects information.**
-
-**Google Meet connects people.**
-
-</div>
-
----
-
-<div align="center">
-
-## 05 — APPLICATION IN EDUCATION & NURSING
-### *Bringing digital tools into academic practice.*
-
-</div>
-
-Both applications can support nursing students and healthcare-related educational activities.
-
-<box border radius="lg" padding={3} gap={3}>
-  <row align=center gap={3}>
-    <icon name="clipboard-list" color="#4285F4" size="2xl"/>
-    **GOOGLE FORMS**
+<box background="#F0F8F3" radius="xl" padding={3} gap={2}>
+  <row align=center gap={2}>
+    <icon name="lightbulb" color="#188038" size="lg"/>
+    **A NURSING STUDENT'S EXAMPLE**
   </row>
-  - Conduct knowledge assessments about nursing topics.
-  - Gather feedback after classroom presentations.
-  - Create surveys for research and academic activities.
-  - Collect registration details for seminars and student events.
-  <divider color="subtle"/>
-  <row align=center gap={3}>
-    <icon name="video" color="#34A853" size="2xl"/>
-    **GOOGLE MEET**
-  </row>
-  - Conduct virtual case presentations.
-  - Participate in online nursing discussions.
-  - Attend virtual lectures and consultations.
-  - Coordinate group assignments and academic projects.
+  Nursing students can use Google Meet to discuss patient case studies, conduct group reporting, practice presentations, and attend virtual consultations with instructors.
 </box>
 
-**Important reminder:** Patient information and confidential health records should never be entered into ordinary forms or shared through meetings without proper authorization and appropriate privacy and security safeguards.
+### THE GOOD & THE LIMITATIONS
+
+<grid columns={2} gap={2}>
+  <grid-item>
+    **<text color="#188038" inline>ADVANTAGES</text>**
+    - Real-time communication
+    - Supports remote learning
+    - Screen-sharing capabilities
+    - Easy meeting invitations
+    - Calendar integration
+  </grid-item>
+  <grid-item>
+    **<text color="#D93025" inline>LIMITATIONS</text>**
+    - Requires stable internet
+    - Possible audio/video delays
+    - Screen fatigue
+    - Device and permission requirements
+    - Advanced features may require eligible plans
+  </grid-item>
+</grid>
 
 ---
 
 <div align="center">
 
-## 06 — RESPONSIBLE AND EFFECTIVE USE
-### *Digital skills come with digital responsibility.*
+# Ⅳ. THE COMPARISON
+
+### Different functions, one digital ecosystem.
 
 </div>
 
-When using Google Forms and Google Meet, users should practice responsible technology use.
+<table>
+<tr>
+<th align="center">GOOGLE FORMS</th>
+<th align="center">GOOGLE MEET</th>
+</tr>
+<tr>
+<td align="center">
 
-| RESPONSIBLE PRACTICE | WHY IT MATTERS |
-|:---|:---|
-| Protect personal information | Prevents unauthorized access to sensitive data |
-| Use appropriate sharing permissions | Controls who can access forms and meetings |
-| Verify meeting links | Helps avoid unwanted participants |
-| Use professional communication | Maintains respect and proper digital etiquette |
-| Check information accuracy | Improves the reliability of collected responses |
-| Secure Google accounts | Helps protect files and personal information |
+<img src="https://img.icons8.com/color/96/google-forms.png" width="55"/>
+
+**Information Collection**
+
+</td>
+<td align="center">
+
+<img src="https://img.icons8.com/color/96/google-meet.png" width="55"/>
+
+**Virtual Communication**
+
+</td>
+</tr>
+<tr>
+<td>Creates surveys and quizzes</td>
+<td>Hosts online meetings</td>
+</tr>
+<tr>
+<td>Collects submitted responses</td>
+<td>Connects participants</td>
+</tr>
+<tr>
+<td>Organizes information</td>
+<td>Encourages collaboration</td>
+</tr>
+<tr>
+<td>Produces response summaries</td>
+<td>Supports discussions and presentations</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>THE SIMPLEST WAY TO REMEMBER</sub>
+
+# FORMS = COLLECT
+
+# MEET = CONNECT
+
+</div>
 
 ---
 
 <div align="center">
 
-## 07 — PERSONAL REFLECTION
-### *What I learned from this presentation.*
+# Ⅴ. APPLICATION IN NURSING
+
+### *Technology meets healthcare education.*
+
+</div>
+
+Digital tools can make nursing education more organized, accessible, and collaborative.
+
+<box border radius="xl" padding={3} gap={3}>
+  <row align=center gap={2}>
+    <icon name="clipboard-list" color="#4285F4" size="xl"/>
+    **GOOGLE FORMS IN NURSING**
+  </row>
+  - Creating quizzes about nursing procedures.
+  - Collecting feedback after clinical discussions.
+  - Conducting academic surveys and research questionnaires.
+  - Registering participants for health education activities.
+  <divider color="subtle"/>
+  <row align=center gap={2}>
+    <icon name="video" color="#34A853" size="xl"/>
+    **GOOGLE MEET IN NURSING**
+  </row>
+  - Conducting virtual case presentations.
+  - Attending online lectures and consultations.
+  - Discussing nursing care plans with classmates.
+  - Coordinating group academic projects.
+</box>
+
+<text color="secondary" size="xs">PRIVACY REMINDER</text>
+
+Patient information and confidential health records should not be entered into ordinary forms or shared through meetings without proper authorization and appropriate privacy and security safeguards.
+
+---
+
+<div align="center">
+
+# Ⅵ. DIGITAL RESPONSIBILITY
+
+### *Being connected also means being responsible.*
+
+</div>
+
+| GOOD DIGITAL PRACTICE | IMPORTANCE |
+|:---|:---|
+| Protect personal information | Prevents unauthorized access |
+| Check sharing permissions | Controls who can view or respond |
+| Verify meeting links | Helps prevent unwanted participants |
+| Communicate professionally | Maintains digital etiquette |
+| Check response accuracy | Improves information reliability |
+| Secure Google accounts | Protects personal and academic data |
+
+---
+
+<div align="center">
+
+# Ⅶ. PERSONAL REFLECTION
+
+### *Learning beyond the screen.*
 
 </div>
 
@@ -380,53 +499,47 @@ This topic also reminded me that knowing how to use technology is not enough. It
 
 <div align="center">
 
-## 08 — KEY TAKEAWAY
-### *Technology becomes useful when we know how to use it.*
+# Ⅷ. THE FINAL TAKEAWAY
+
+### *Simple tools. Meaningful connections.*
 
 <br/>
 
-<sub>GOOGLE FORMS</sub>
+<img src="https://img.shields.io/badge/GOOGLE%20FORMS-CREATE%20%7C%20COLLECT%20%7C%20ANALYZE-4285F4?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/GOOGLE%20MEET-CONNECT%20%7C%20COMMUNICATE%20%7C%20COLLABORATE-34A853?style=for-the-badge"/>
 
-# CREATE · COLLECT · ANALYZE
+<br/><br/>
 
-<sub>GOOGLE MEET</sub>
+Technology becomes more valuable when we understand how to use it effectively.
 
-# CONNECT · COMMUNICATE · COLLABORATE
+Google Forms and Google Meet demonstrate how digital applications can support education, productivity, and communication in today's connected world.
 
 <br/>
-
-Together, these tools demonstrate how digital technology can support learning, productivity, and communication in today's connected world.
-
-</div>
 
 ---
 
-<div align="center">
+### ✦ PRESENTATION DETAILS ✦
 
-## ✦ PRESENTATION TOOLKIT ✦
-
-| CATEGORY | DETAILS |
+| CATEGORY | INFORMATION |
 |:---|:---|
 | Activity | Presentation Exam |
 | Topic | Google Forms and Google Meet |
 | Platform | Google Workspace |
 | Main Focus | Digital information collection and communication |
-| Applications | Google Forms and Google Meet |
 | Learning Area | 21st Century IT Skills |
+| Program | Nursing |
 
 <br/>
 
-### OFFICIAL GOOGLE RESOURCES
+### EXPLORE THE PLATFORMS
 
-[Google Forms](https://forms.google.com) · [Google Meet](https://meet.google.com) · [Google Workspace Learning Center](https://support.google.com/a/users/)
+[<img src="https://img.shields.io/badge/GOOGLE%20FORMS-OPEN-4285F4?style=for-the-badge&logo=googleforms&logoColor=white"/>](https://forms.google.com)
+
+[<img src="https://img.shields.io/badge/GOOGLE%20MEET-OPEN-34A853?style=for-the-badge&logo=googlemeet&logoColor=white"/>](https://meet.google.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4285F4&height=120&section=footer&text=LEARN%20%E2%80%A2%20CONNECT%20%E2%80%A2%20COLLABORATE&fontSize=22&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-<sub>GE 4120 · ELECTIVES: 21ST CENTURY IT SKILLS</sub>
-
-<sub>JALENE NAKANO · NURSING</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8F9FF&height=125&section=footer&text=LEARN.%20CONNECT.%20COLLABORATE.&fontSize=23&fontColor=26345B&fontAlignY=48&desc=GE%204120%20%E2%80%A2%20JALENE%20NAKANO%20%E2%80%A2%20NURSING&descSize=11&descAlignY=72&descColor=4285F4" width="100%"/>
 
 </div>
-
