@@ -81,6 +81,101 @@ It reflects my journey of learning how to use technology effectively in both aca
 
 ---
 
+## 🌸 SKILLS I'VE LEARNED
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:580719,50:870D2B,100:B33B59&height=100&section=header&text=MY%20DIGITAL%20SKILLS&fontSize=28&fontColor=FFF5EF&fontAlignY=55" width="100%"/>
+
+<br>
+
+*Skills, knowledge, and experiences gained throughout GE 4120 – 21st Century IT Skills.*
+
+</div>
+
+### 🎨 01. Creative & Design Skills
+
+- Presentation design and visual organization
+- Understanding color combinations, typography, and layouts
+- Creating personal branding and visual identities
+- Designing social media infographics
+- Organizing information into visually appealing content
+
+### 🤖 02. Artificial Intelligence Skills
+
+- Writing and improving AI prompts (Prompt Engineering)
+- Using ChatGPT and Claude AI for different tasks
+- Comparing AI-generated outputs and capabilities
+- Using AI for brainstorming, writing, and productivity
+- Understanding effective and responsible AI usage
+
+### 💻 03. Digital & Technical Skills
+
+- Creating and managing Google Forms
+- Using Google Meet for online communication and collaboration
+- Exploring website development using Replit
+- Understanding basic website structure and design
+- Creating and managing GitHub repositories
+- Writing and editing README.md using Markdown
+- Using digital tools for academic projects
+
+### 📄 04. Professional & Productivity Skills
+
+- Creating professional resumes with AI assistance
+- Organizing digital files and academic outputs
+- Presenting information clearly and effectively
+- Improving digital communication
+- Using technology to increase productivity
+
+### ✨ 05. Personal Development Skills
+
+- Creativity and critical thinking
+- Problem-solving and adaptability
+- Independent learning
+- Attention to detail
+- Time management
+- Confidence in exploring new technologies
+
+---
+
+## 🎀 SKILLS AT A GLANCE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CREATIVITY-580719?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-870D2B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20LITERACY-B33B59?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-A66B78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DIGITAL%20DESIGN-C77B91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MARKDOWN-DCAAB7?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/COMMUNICATION-963D50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-870D2B?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🪞 MY LEARNING REFLECTION
+
+This subject taught me that technology is more than just using applications and digital tools. It is also about being creative, resourceful, and open to learning new things.
+
+Through the different activities, I gained knowledge in artificial intelligence, digital design, website development, online collaboration, and professional document creation.
+
+I look forward to applying these skills not only in my academic journey but also in my future nursing career.
+
+<div align="center">
+
+### 🌹 LEARN • CREATE • INNOVATE • GROW
+
+*Every skill learned is another step toward becoming better.*
+
+</div>
+
+---
+---
+
 ## 🪞 A LITTLE ABOUT ME
 
 | | |
