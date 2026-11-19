@@ -1,108 +1,121 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4A0715&height=220&section=header&text=JALENE%20NAKANO&fontSize=48&fontColor=F8E9E7&fontAlignY=42&desc=21ST%20CENTURY%20IT%20SKILLS%20%7C%20DIGITAL%20PORTFOLIO&descSize=13&descAlignY=65&descColor=E5BFC3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:580719,35:870D2B,70:B33B59,100:DCAAB7&height=240&section=header&text=JALENE%20NAKANO&fontSize=53&fontColor=FFF5EF&fontAlignY=42&desc=MY%20DIGITAL%20LEARNING%20JOURNEY&descSize=14&descColor=F8DDE2&descAlignY=65" width="100%"/>
 
 <br>
 
-### 𓆩♡𓆪 WELCOME TO MY DIGITAL SPACE 𓆩♡𓆪
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3000&pause=1000&color=B33B59&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+portfolio+%E2%99%A1;Learning+with+creativity+and+purpose;Creating+something+beautiful+through+technology" />
 
-*A collection of creativity, knowledge, and digital growth.*
+<br>
+
+**GE 4120 — ELECTIVES: 21ST CENTURY IT SKILLS**
+
+*Creativity • Technology • Innovation • Growth*
 
 </div>
 
 ---
 
-## ABOUT THIS PORTFOLIO
+## 🌷 ABOUT MY PORTFOLIO
 
-Hello! I'm **Jalene Nakano**, a 23-year-old nursing student.
+Hi! I'm **Jalene Nakano**, a 23-year-old nursing student.
 
-Welcome to my **GE 4120 – Electives: 21st Century IT Skills** digital portfolio. This repository showcases my activities, examinations, and creative outputs throughout the course.
+Welcome to my personal digital hub! This repository showcases my activities, examinations, and creative outputs throughout **GE 4120 – Electives: 21st Century IT Skills**.
 
-Each project represents an opportunity to explore technology, strengthen my digital skills, and express my creativity.
-
----
-
-## THE COLLECTION
-<sub>SEVEN ACTIVITIES · ONE JOURNEY OF LEARNING</sub>
-
-### 01 — PRESENTATION DESIGN PRINCIPLES
-`CREATIVITY · VISUAL COMMUNICATION`
-
-Exploring the essential principles of effective presentation design, including layout, typography, color harmony, visual hierarchy, and organization of information.
-
-### 02 — PERSONAL BRANDING
-`IDENTITY · DESIGN · CREATIVITY`
-
-Developing my personal identity through a unique name presentation, logo, tagline, color palette, typography, and cohesive visual style.
-
-### 03 — SOCIAL MEDIA INFOGRAPHIC
-`INFORMATION · DIGITAL DESIGN`
-
-Creating an engaging and informative infographic for social media, transforming important information into an attractive and easy-to-understand visual presentation.
-
-### 04 — PRESENTATION EXAMINATION
-`GOOGLE FORMS · GOOGLE MEET`
-
-Applying my knowledge of Google Forms and Google Meet through practical activities. Exploring online form creation, digital assessments, virtual communication, and collaboration.
-
-### 05 — EXPLORING AND IMPROVING AI PROMPTS
-`ARTIFICIAL INTELLIGENCE · INNOVATION`
-
-Discovering how to communicate effectively with AI tools by developing, testing, and refining prompts to generate more accurate, relevant, and useful outputs.
-
-### 06 — MAKING A WEBSITE
-`WEB DEVELOPMENT · DIGITAL CREATIVITY`
-
-Designing and developing a website using digital tools and web technologies. Showcasing creativity, website organization, functionality, and user-friendly design.
-
-### 07 — RESUME GENERATING
-`PROFESSIONAL IDENTITY · CAREER DEVELOPMENT`
-
-Creating a professional resume that presents my educational background, qualifications, experiences, and skills in preparation for future career opportunities.
+From designing presentations to exploring artificial intelligence and website development, each activity represents a new opportunity to learn, create, and improve my digital skills.
 
 ---
 
-## THE PURPOSE
+## 🎀 MY ACTIVITIES & PROJECTS
 
-This digital portfolio serves as a record of my learning journey in GE 4120. It reflects my progress in understanding technology, developing creative solutions, and applying digital tools in academic and professional environments.
+<img src="https://img.shields.io/badge/ACTIVITY%2001-PRESENTATION%20DESIGN-580719?style=for-the-badge" />
 
-More than a collection of activities, this is a reflection of my willingness to learn, adapt, and grow in an increasingly digital world.
+**🎨 Presentation Design Principles**
+
+Exploring the principles of effective presentation design, including visual hierarchy, typography, color combinations, layout, and organization of information.
+
+<img src="https://img.shields.io/badge/ACTIVITY%2002-PERSONAL%20BRANDING-870D2B?style=for-the-badge" />
+
+**🌹 Personal Branding**
+
+Creating my personal identity through a unique name, logo, tagline, color palette, typography, and overall visual style.
+
+<img src="https://img.shields.io/badge/ACTIVITY%2003-SOCIAL%20MEDIA%20INFOGRAPHIC-B33B59?style=for-the-badge" />
+
+**📱 Social Media Infographic**
+
+Designing an informative and engaging infographic that presents information creatively and clearly for social media.
+
+<img src="https://img.shields.io/badge/ACTIVITY%2004-GOOGLE%20FORMS%20%26%20MEET-A66B78?style=for-the-badge" />
+
+**💻 Presentation Examination: Google Forms & Google Meet**
+
+Applying my knowledge of Google Forms and Google Meet through practical activities involving online forms, digital assessments, virtual communication, and collaboration.
+
+<img src="https://img.shields.io/badge/ACTIVITY%2005-ARTIFICIAL%20INTELLIGENCE-C77B91?style=for-the-badge" />
+
+**🤖 Exploring and Improving AI Prompts**
+
+Learning how to develop, test, and refine AI prompts to produce more accurate, relevant, and useful outputs using artificial intelligence tools.
+
+<img src="https://img.shields.io/badge/ACTIVITY%2006-WEBSITE%20DEVELOPMENT-DCAAB7?style=for-the-badge" />
+
+**🌐 Making a Website**
+
+Designing and developing a website using digital tools and web technologies while exploring website structure, creativity, and user-friendly design.
+
+<img src="https://img.shields.io/badge/ACTIVITY%2007-RESUME%20GENERATING-963D50?style=for-the-badge" />
+
+**📄 Resume Generating**
+
+Creating a professional resume that highlights my educational background, skills, qualifications, and experiences in preparation for future career opportunities.
 
 ---
 
-## A LITTLE ABOUT ME
+## ✨ THE PURPOSE
+
+This repository serves as a collection of my GE 4120 activities and outputs. It documents my progress in developing digital literacy, creativity, communication, and technological skills.
+
+It reflects my journey of learning how to use technology effectively in both academic and professional environments.
+
+---
+
+## 🪞 A LITTLE ABOUT ME
 
 | | |
 |:--|:--|
-| **Name** | Jalene Nakano |
-| **Age** | 23 |
-| **Course** | Nursing |
-| **Subject** | GE 4120 – 21st Century IT Skills |
+| 🌸 **Name** | Jalene Nakano |
+| 🎂 **Age** | 23 |
+| 🎓 **Course** | Nursing |
+| 💻 **Subject** | GE 4120 – 21st Century IT Skills |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4A0715&height=2&section=header" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:580719,50:870D2B,100:B33B59&height=3&section=header" width="85%"/>
 
-### A NOTE TO REMEMBER
+### ♡ A LITTLE REMINDER ♡
 
-*"Elegance is not just in how things look, but in the thought, creativity, and purpose behind them."*
+*"Every new skill is another way to express creativity, embrace opportunities, and grow."*
 
 <br>
 
-**THANK YOU FOR EXPLORING MY PORTFOLIO.**
+**THANK YOU FOR VISITING MY PORTFOLIO!**
 
 With love and creativity,
 
-### JALENE NAKANO ♡
+### 🌹 JALENE NAKANO
 
-<sub>LEARN · CREATE · INNOVATE · GROW</sub>
+<sub>LEARN • CREATE • INNOVATE • GROW</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A0715&height=120&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:580719,50:870D2B,100:DCAAB7&height=130&section=footer" width="100%"/>
 
 </div>
+
 
 
 
