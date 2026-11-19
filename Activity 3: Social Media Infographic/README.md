@@ -1,290 +1,436 @@
-## Activity 3: Social Media Infographics 
 
-### Introduction
+<div align="center">
 
-For Activity 3, I created an infographic-style documentation for a mini-project on a very relevant topic: **AI-Assisted Project Management**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100B20&height=210&section=header&text=ACTIVITY%2003&fontSize=22&fontColor=C8A9FF&fontAlignY=30&desc=SOCIAL%20MEDIA%20INFOGRAPHICS&descSize=32&descAlignY=58&descColor=FFFFFF" width="100%"/>
 
-The activity focused on presenting complex research, business problems, and proposed solutions in a clear and visually engaging way.
+<br/>
 
-The goal was to take a dense, research-heavy topic and transform it into a format that would be easier for viewers to understand and follow.
+<img src="https://img.shields.io/badge/PROJECT-AI%20ASSISTED%20PROJECT%20MANAGEMENT-7B4DCE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOOL-CANVA-191326?style=for-the-badge&logo=canva&logoColor=white"/>
 
-The final output was a **single-page infographic-style document** that presents the problem, its impact, and the proposed AI-powered solution in a structured visual format.
+<br/><br/>
 
----
+### ✦ RESEARCH MEETS VISUAL STORYTELLING ✦
 
-# Project Concept
+*A visual exploration of business inefficiencies, human impact, and AI-powered solutions.*
 
-The concept was to take a complex topic about **business inefficiencies and AI-assisted project management** and make the information more accessible through visual organization.
+<br/>
 
-The infographic presents the information as a continuous narrative, allowing the viewer to understand the situation from the initial problem toward the proposed solution.
-
-Instead of presenting the research as a long block of text, I divided the information into different sections so that each part could contribute to the overall story of the project.
-
-The main focus was to communicate the relationship between:
-
-- Business inefficiencies
-- Channel fragmentation
-- Tool duplication
-- Shadow AI
-- Human and organizational costs
-- Expected impact
-- AI-powered solutions
-
-This structure allows the viewer to understand not only the problems but also how the proposed solution addresses those problems.
+</div>
 
 ---
 
-# Design Concept
+<div align="center">
 
-The main design concept was to create a **professional, modern, and visually engaging infographic** that would be appropriate for a business-related topic.
+## 01 — PROJECT OVERVIEW
+### *Turning complexity into clarity.*
 
-Since the subject focuses on project management, technology, and business inefficiencies, I wanted the design to appear professional while still having a creative and modern quality.
+</div>
 
-The infographic uses a clear visual hierarchy and a structured layout to guide the viewer through the information.
+For Activity 3, I created an infographic-style documentation for a mini-project about **AI-Assisted Project Management**.
 
-The overall design was created to make the content feel organized rather than overwhelming, especially because the original topic contained a significant amount of research and information.
+The goal was to transform complex research, business problems, and proposed solutions into a single-page visual presentation that would be easier to understand and follow.
 
----
+Rather than presenting the research as a long block of text, I used a structured visual layout to guide the audience through the topic.
 
-# Color Palette
+<details>
+<summary><b>✦ PROJECT AT A GLANCE</b></summary>
 
-For the color palette, I chose **black and purple**.
+| CATEGORY | DETAILS |
+|:---|:---|
+| Project | AI-Assisted Project Management |
+| Activity | Social Media Infographics |
+| Design Tool | Canva |
+| Format | Single-page infographic |
+| Visual Style | Modern, professional, technology-inspired |
+| Color Identity | Black and Purple |
+| Narrative | Problem → Impact → Solution |
 
-These colors were selected because they complement the serious and technological nature of the topic while also giving the infographic a modern visual identity.
-
-### Black
-
-Black gives the design a **professional, authoritative, and serious** appearance.
-
-Since the topic focuses on business inefficiencies and project management, black helps communicate a sense of professionalism and reliability.
-
-It also creates a strong visual foundation for the infographic and allows other elements to stand out clearly.
-
-Black helps reinforce the idea that the topic is related to serious organizational and business concerns.
-
-### Purple
-
-Purple adds a **creative, sophisticated, and modern** quality to the design.
-
-While black gives the infographic a more serious and authoritative feeling, purple helps soften the heaviness of the subject.
-
-It also works well with the technology-focused concept because it creates a contemporary and visually distinctive appearance.
-
-The combination of black and purple allows the infographic to remain professional while still having creativity and personality.
-
-### Overall Color Palette
-
-Together, black and purple create a balanced visual identity.
-
-- **Black** communicates professionalism, authority, seriousness, and structure.
-- **Purple** communicates creativity, sophistication, technology, and modernity.
-
-The combination helps the infographic appear **polished, professional, and visually engaging** without distracting from the information.
+</details>
 
 ---
 
-# Design Structure
+<div align="center">
 
-For the design structure, I used a clear **top-to-bottom narrative flow**.
+## 02 — THE CREATIVE DIRECTION
+### *A visual language for modern technology.*
 
-The information is organized into three major sections:
+</div>
 
-### Top Section – The Problem
+The concept was to make a complex business-related topic more accessible through visual organization.
 
-The top section introduces the **problem and business inefficiencies**.
+The infographic presents the information as a continuous narrative, allowing viewers to understand the situation from the initial problem toward the proposed solution.
 
-This section establishes the situation and helps the viewer understand the challenges being experienced within the project management environment.
+The main focus was to communicate the relationship between different organizational challenges:
 
-The problems presented include interconnected issues such as:
+</div>
+
+<div align="center">
+
+| 01 | 02 | 03 |
+|:---:|:---:|:---:|
+| CHANNEL FRAGMENTATION | TOOL DUPLICATION | SHADOW AI |
+| 04 | 05 | 06 |
+| BUSINESS INEFFICIENCIES | HUMAN COSTS | AI-POWERED SOLUTIONS |
+
+</div>
+
+These elements work together to explain the AI Paradox and show how disconnected tools and processes can create challenges within project management.
+
+---
+
+<div align="center">
+
+## 03 — COLOR STORY
+### *Dark foundations. Electric creativity.*
+
+</div>
+
+For this project, I selected **black and purple** to establish a professional yet contemporary visual identity.
+
+The colors were chosen to reflect the serious nature of business inefficiencies while maintaining a creative and technology-inspired appearance.
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://singlecolorimage.com/get/100B20/260x130" width="100%"/>
+
+### MIDNIGHT BLACK
+
+`#100B20`
+
+**Professional · Authoritative · Structured**
+
+Black creates a strong visual foundation. It gives the infographic a serious and professional atmosphere while helping other design elements stand out.
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://singlecolorimage.com/get/7B4DCE/260x130" width="100%"/>
+
+### ROYAL PURPLE
+
+`#7B4DCE`
+
+**Creative · Sophisticated · Modern**
+
+Purple introduces creativity and a technology-focused feeling. It balances the darker background and gives the infographic a distinctive visual character.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**THE COLOR EQUATION**
+
+<sub>BLACK = STRUCTURE</sub>
+
+<sub>+</sub>
+
+<sub>PURPLE = INNOVATION</sub>
+
+<sub>──────────────</sub>
+
+**A MODERN TECHNOLOGY IDENTITY**
+
+</div>
+
+---
+
+<div align="center">
+
+## 04 — INFORMATION ARCHITECTURE
+### *One story. Three visual stages.*
+
+</div>
+
+The infographic follows a clear **top-to-bottom narrative flow**. I divided the content into three major sections to make the information easier to process.
+
+<details open>
+<summary><b>01 / THE PROBLEM</b></summary>
+
+The top section introduces the business inefficiencies and challenges within the project management environment.
 
 - Channel fragmentation
 - Tool duplication
 - Shadow AI
 - Inefficient processes
 
-Starting with the problem gives the audience the necessary context before introducing the impact and solution.
+Starting with the problem gives viewers the context they need before understanding its consequences.
 
-### Middle Section – The Impact
+</details>
 
-The middle section focuses on the **expected impact and human costs** of the problems.
+<details>
+<summary><b>02 / THE IMPACT</b></summary>
 
-This section helps show that the issues are not only technical or organizational problems but can also affect people and the overall efficiency of the workplace.
+The middle section focuses on the expected impact and human costs.
 
-The information is presented as part of the overall narrative rather than as isolated statistics.
+It shows that these challenges are not limited to technology or organizational systems. They can also affect employees, collaboration, and overall workplace efficiency.
 
-### Bottom Section – The Solution
+</details>
 
-The bottom section presents the **AI-powered solution**.
+<details>
+<summary><b>03 / THE SOLUTION</b></summary>
 
-After explaining the problems and their effects, the infographic moves toward the proposed solution.
+The bottom section introduces the proposed AI-powered solution.
 
-This creates a logical progression:
+After presenting the problems and their effects, the infographic moves toward how AI-assisted project management can help address these challenges.
 
-**Problem → Impact → Solution**
+</details>
 
-This structure makes the information easier to follow because the viewer is guided through the project in a natural sequence.
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-PROBLEM-7B4DCE?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-IMPACT-AE8BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/03-SOLUTION-C8A9FF?style=flat-square"/>
+
+### PROBLEM → IMPACT → SOLUTION
+
+<sub>A natural reading journey from identifying challenges to exploring possibilities.</sub>
+
+</div>
 
 ---
 
-# Presentation of Data
+<div align="center">
 
-One of my intentional design choices was **not to highlight the percentages in bold or display them as large numbers**.
+## 05 — DATA PRESENTATION
+### *Let the information speak naturally.*
+
+</div>
+
+One of my intentional design decisions was **not to display percentages as oversized or bold numerical elements**.
 
 Instead, I kept the percentages naturally embedded within the text.
 
-This was a deliberate choice to maintain a **clean and uninterrupted reading experience**.
-
-Rather than making the statistics appear as isolated or shocking numbers, I wanted viewers to absorb the information as part of the larger narrative.
-
-The goal was to present the data as part of a **cohesive story**, allowing the viewer to understand the meaning and context of the information instead of focusing only on individual percentages.
+This was a deliberate choice to maintain a clean and uninterrupted reading experience. I wanted viewers to understand the statistics within their context rather than focus only on individual numbers.
 
 This approach also helped prevent the infographic from becoming visually crowded or overly focused on numerical information.
 
----
+<div align="center">
 
-# Creative Process and Development
+> Not every number needs the spotlight. Sometimes, context communicates more than emphasis.
 
-The creative process began with a **thorough reading of the research material**.
-
-Before designing the infographic, I needed to understand the topic and the relationships between the different problems being discussed.
-
-I needed to fully understand the **"AI Paradox"** and the interconnected problems within the project management environment.
-
-These included:
-
-- Channel fragmentation
-- Tool duplication
-- Shadow AI
-- Business inefficiencies
-- Human costs
-- Organizational challenges
-
-Understanding the research first allowed me to determine which information needed to be presented and how it could be organized visually.
-
-Instead of immediately designing the infographic, I first considered the flow of information and how one problem connected to another.
-
-This helped me create a layout that follows a logical progression from the problem to its impact and finally to the proposed solution.
+</div>
 
 ---
 
-# Information Organization
+<div align="center">
 
-Because the topic contained a large amount of research-based information, organization was an important part of the creative process.
+## 06 — THE CREATIVE PROCESS
+### *Understanding first. Designing second.*
 
-I separated the content into sections based on its purpose within the overall narrative.
+</div>
 
-The information was organized so that:
+The creative process began with a thorough reading of the research material.
 
-- The problem is introduced first.
-- The effects and human costs are explained next.
-- The expected impact is presented as part of the discussion.
-- The AI-powered solution is introduced at the end.
+Before creating the infographic, I needed to understand the **AI Paradox** and how the different problems within project management were connected.
 
-This organization helps prevent the viewer from becoming overwhelmed by the amount of information.
+My process involved:
 
-It also makes the infographic easier to scan and understand.
+<table>
+<tr>
+<td width="12%" align="center">
+
+**01**
+
+</td>
+<td>
+
+**RESEARCH & UNDERSTANDING**
+
+Reading the source material and identifying the main issues, including channel fragmentation, tool duplication, Shadow AI, business inefficiencies, and human costs.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**02**
+
+</td>
+<td>
+
+**CONTENT ORGANIZATION**
+
+Separating the research into meaningful sections and deciding which information belonged in the problem, impact, and solution stages.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**03**
+
+</td>
+<td>
+
+**VISUAL PLANNING**
+
+Establishing the top-to-bottom layout, color palette, visual hierarchy, and overall direction of the infographic.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**04**
+
+</td>
+<td>
+
+**DESIGN DEVELOPMENT**
+
+Using Canva to arrange the content and create a single-page infographic that balances readability with visual appeal.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Visual Hierarchy
+<div align="center">
 
-Visual hierarchy was used to guide the viewer's attention through the infographic.
+## 07 — VISUAL HIERARCHY
+### *Guiding the viewer's attention.*
 
-The placement and organization of the sections help establish which information should be viewed first and how the viewer should continue reading.
+</div>
 
-The top-to-bottom structure creates a natural reading direction.
+Visual hierarchy played an important role in making the infographic easier to follow.
 
-The black and purple color scheme also contributes to the hierarchy by providing visual contrast between different elements.
+I used the placement and organization of each section to establish a natural reading direction. The black and purple color scheme also helped distinguish visual elements and maintain consistency throughout the design.
 
-Rather than emphasizing individual percentages, I prioritized the **overall flow and meaning of the information**.
+Rather than emphasizing individual percentages, I prioritized the overall flow and meaning of the information.
 
-This allowed the infographic to communicate the research as one connected story.
+**My design priorities were:**
 
----
-
-# Overall Effect of the Design
-
-The final design combines **professionalism, structure, creativity, and readability**.
-
-The black and purple color palette gives the infographic a modern and sophisticated appearance, while the top-to-bottom structure makes the information easier to follow.
-
-The problem-to-solution narrative also gives the infographic a clear purpose.
-
-Instead of simply presenting research, the design helps the viewer understand:
-
-**What is the problem?**
-
-**What impact does it have?**
-
-**How can AI help solve it?**
-
-This makes the infographic more effective as a form of project documentation because the visual design supports the information rather than distracting from it.
+- Clear section organization
+- Consistent color usage
+- Readable typography
+- Intentional spacing
+- Balanced text placement
+- A continuous problem-to-solution narrative
 
 ---
 
-# Reflection
+<div align="center">
+
+## 08 — FINAL DESIGN IMPACT
+### *More than information. A visual explanation.*
+
+</div>
+
+The final design combines professionalism, structure, creativity, and readability.
+
+The dark color palette gives the infographic a modern and sophisticated appearance, while the top-to-bottom structure makes the research easier to follow.
+
+Most importantly, the design helps viewers understand three essential questions:
+
+<box>
+
+<div align="center">
+
+### WHAT IS THE PROBLEM?
+
+<sub>Understanding the business inefficiencies.</sub>
+
+<text color="#A78BFA">↓</text>
+
+### WHAT IS THE IMPACT?
+
+<sub>Recognizing the organizational and human costs.</sub>
+
+<text color="#A78BFA">↓</text>
+
+### HOW CAN AI HELP?
+
+<sub>Exploring the proposed AI-powered solutions.</sub>
+
+</div>
+
+</box>
+
+The infographic serves as a visual form of project documentation, where the design supports the research instead of distracting from it.
+
+---
+
+<div align="center">
+
+## 09 — PERSONAL REFLECTION
+### *What this activity taught me.*
+
+</div>
 
 This activity helped me understand how important visual organization is when presenting complex information.
 
-A research-heavy topic can easily become overwhelming if too much information is presented without a clear structure.
+A research-heavy topic can easily become overwhelming when too much information is presented without a clear structure. Through this activity, I learned that infographic design is not simply about adding visual elements to a page. It requires understanding the content first and deciding how the information should be communicated.
 
-Through this activity, I learned that infographic design is not simply about adding visual elements to a page. It requires understanding the content first and then deciding how the information should be presented.
+I also realized that color, layout, hierarchy, spacing, and text placement influence how an audience processes information.
 
-I also learned that design choices such as **color, layout, hierarchy, spacing, and text placement** can influence how an audience processes information.
+The decision not to make the percentages large or bold taught me that not every element needs to compete for attention. Sometimes, subtle details and well-organized information create a cleaner and more meaningful reading experience.
 
-The decision not to make the percentages large or bold also taught me that not every piece of information needs to compete for attention.
-
-Sometimes, keeping information subtle and integrated into the narrative can create a cleaner and more meaningful reading experience.
-
-Overall, this activity allowed me to practice combining **research, information organization, and visual design** into one cohesive project.
+Overall, this activity allowed me to combine research, information organization, and visual design into one cohesive project.
 
 ---
 
-# Key Takeaway
+<div align="center">
 
-This activity demonstrated how an infographic can transform complex research into a **clear, organized, and visually engaging presentation**.
+## 10 — KEY TAKEAWAY
+### *Design with purpose. Communicate with clarity.*
 
-For the **AI-Assisted Project Management** mini-project, the combination of:
+<br/>
 
-- Black and purple color palette
-- Top-to-bottom narrative flow
-- Clear information sections
-- Problem-to-solution structure
-- Controlled use of statistics
-- Professional typography and layout
+The most important lesson I learned is that effective infographic design is not about making every element stand out.
 
-helped create a design that communicates the topic effectively.
+It is about creating a visual path that allows the audience to understand the information naturally — from the problem, to its impact, and finally to the solution.
 
-The most important lesson I learned was that effective infographic design is not about making every element stand out.
+<br/>
 
-Instead, it is about creating a clear visual path that allows the audience to understand the information **from the problem, to its impact, and finally to the solution**.
+<img src="https://img.shields.io/badge/RESEARCH-UNDERSTAND-100B20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESIGN-ORGANIZE-7B4DCE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMMUNICATE-INSPIRE-5A3A99?style=for-the-badge"/>
 
----
-
-## Tools Used
-
-- **Canva** – used to create the infographic-style project documentation
-- Color palette selection
-- Typography and text organization
-- Layout and visual hierarchy
-- Information organization
-- Infographic design principles
+</div>
 
 ---
 
-## Project Summary
+<div align="center">
 
-| Category | Details |
-|---|---|
-| **Activity** | Activity 3 – Social Media Infographics and Mini Project Documentation |
+## ✦ DESIGN TOOLKIT ✦
+
+| TOOL / ELEMENT | PURPOSE |
+|:---|:---|
+| Canva | Infographic creation and layout development |
+| Color Palette | Black and purple visual identity |
+| Typography | Readability and information hierarchy |
+| Layout | Top-to-bottom narrative structure |
+| Visual Design | Information organization and communication |
+
+<br/>
+
+## PROJECT DETAILS
+
+| | |
+|:---|:---|
+| **Activity** | Activity 3 – Social Media Infographics |
 | **Project** | AI-Assisted Project Management |
-| **Design Tool** | Canva |
-| **Main Concept** | Presenting complex research and business solutions through an infographic |
-| **Color Palette** | Black and Purple |
-| **Design Structure** | Top-to-bottom narrative flow |
-| **Information Flow** | Problem → Impact → Solution |
-| **Main Focus** | Business inefficiencies, AI Paradox, and AI-powered solutions |
-| **Design Approach** | Professional, modern, organized, and visually engaging |
-| **Design Focus** | Information clarity and visual communication |
+| **Format** | Single-page infographic |
+| **Main Concept** | Research-based visual storytelling |
+| **Design Approach** | Professional, modern, and organized |
+| **Main Focus** | Business inefficiencies and AI-powered solutions |
 
-> **Note:** The purpose of this activity was to transform complex research about **AI-Assisted Project Management** into a clear and visually engaging infographic. The design combines a professional black and purple color palette with a structured problem-to-solution narrative to make the information easier to understand and follow.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100B20&height=130&section=footer&text=END%20OF%20ACTIVITY%2003&fontSize=25&fontColor=FFFFFF&fontAlignY=43&desc=CREATED%20WITH%20PURPOSE%20%E2%80%A2%20DESIGNED%20WITH%20CLARITY&descSize=11&descAlignY=68&descColor=C8A9FF" width="100%"/>
+
+<sub>GE 4120 · ELECTIVES: 21ST CENTURY IT SKILLS</sub>
+
+<sub>JALENE NAKANO · NURSING</sub>
+
+</div>
+
+
+
+
