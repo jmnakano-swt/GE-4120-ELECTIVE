@@ -1,81 +1,109 @@
 
-# 🌹 GE 4120 – Electives: 21st Century IT Skills
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=180&section=header&text=Jalene%20Nakano&fontSize=45&fontColor=FFF5F0&fontAlignY=45&desc=Learning%20%7C%20Creating%20%7C%20Growing&descAlignY=70&descSize=16" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4A0715&height=220&section=header&text=JALENE%20NAKANO&fontSize=48&fontColor=F8E9E7&fontAlignY=42&desc=21ST%20CENTURY%20IT%20SKILLS%20%7C%20DIGITAL%20PORTFOLIO&descSize=13&descAlignY=65&descColor=E5BFC3" width="100%" />
 
-<p align="center">
-  <b>🌷 Welcome to My Digital Portfolio 🌷</b>
-</p>
+<br>
 
-Hi! I'm **Jalene Nakano**, a 23-year-old nursing student. 👋
+### 𓆩♡𓆪 WELCOME TO MY DIGITAL SPACE 𓆩♡𓆪
 
-Welcome to my **GE 4120 – Electives: 21st Century IT Skills** hub! This repository contains my activities, outputs, and projects throughout the course. It showcases my creativity, continuous learning, and growing digital skills through different technology-based activities.
+*A collection of creativity, knowledge, and digital growth.*
+
+</div>
 
 ---
 
-## 📚 My Activities & Projects
+## ABOUT THIS PORTFOLIO
 
-### 01. 🎨 Presentation Design Principles
-This activity focuses on the principles of creating effective and visually appealing presentations. It explores the use of design elements, organization of information, typography, and visual communication to deliver clear and engaging presentations.
+Hello! I'm **Jalene Nakano**, a 23-year-old nursing student.
 
-### 02. 🌷 Personal Branding
-This activity explores the importance of developing a personal brand. It includes creating my personal identity through my name, logo, tagline, color palette, typography, and overall visual style.
+Welcome to my **GE 4120 – Electives: 21st Century IT Skills** digital portfolio. This repository showcases my activities, examinations, and creative outputs throughout the course.
 
-### 03. 📱 Social Media Infographic
-This activity focuses on creating an informative and engaging infographic designed for social media. It demonstrates how information can be presented creatively and clearly using digital design principles.
-
-### 04. 💻 Presentation Examination: Google Forms & Google Meet
-This activity covers the practical application of Google Forms and Google Meet. It demonstrates my understanding of creating online forms, organizing digital information, and using virtual meeting platforms for communication and collaboration.
-
-### 05. 🤖 Exploring and Improving AI Prompts
-This activity explores the use of Artificial Intelligence through prompt creation and improvement. It focuses on developing effective prompts, refining instructions, and understanding how to communicate with AI tools to generate more accurate and useful results.
-
-### 06. 🌐 Making a Website
-This activity involves designing and developing a website using digital tools and web technologies. It showcases my creativity, understanding of website structure, and ability to create an organized, user-friendly digital platform.
-
-### 07. 📄 Resume Generating
-This activity focuses on creating a professional and well-organized resume using digital tools. It highlights the importance of presenting personal information, educational background, skills, and qualifications effectively in preparation for future career opportunities.
+Each project represents an opportunity to explore technology, strengthen my digital skills, and express my creativity.
 
 ---
 
-## 🎯 Purpose of This Hub
+## THE COLLECTION
+<sub>SEVEN ACTIVITIES · ONE JOURNEY OF LEARNING</sub>
 
-This repository serves as a collection of my **GE 4120 activities and outputs**, documenting my progress and development throughout the course.
+### 01 — PRESENTATION DESIGN PRINCIPLES
+`CREATIVITY · VISUAL COMMUNICATION`
 
-Through these activities, I aim to improve my digital literacy, creativity, communication, and ability to use technology effectively in both academic and professional settings.
+Exploring the essential principles of effective presentation design, including layout, typography, color harmony, visual hierarchy, and organization of information.
+
+### 02 — PERSONAL BRANDING
+`IDENTITY · DESIGN · CREATIVITY`
+
+Developing my personal identity through a unique name presentation, logo, tagline, color palette, typography, and cohesive visual style.
+
+### 03 — SOCIAL MEDIA INFOGRAPHIC
+`INFORMATION · DIGITAL DESIGN`
+
+Creating an engaging and informative infographic for social media, transforming important information into an attractive and easy-to-understand visual presentation.
+
+### 04 — PRESENTATION EXAMINATION
+`GOOGLE FORMS · GOOGLE MEET`
+
+Applying my knowledge of Google Forms and Google Meet through practical activities. Exploring online form creation, digital assessments, virtual communication, and collaboration.
+
+### 05 — EXPLORING AND IMPROVING AI PROMPTS
+`ARTIFICIAL INTELLIGENCE · INNOVATION`
+
+Discovering how to communicate effectively with AI tools by developing, testing, and refining prompts to generate more accurate, relevant, and useful outputs.
+
+### 06 — MAKING A WEBSITE
+`WEB DEVELOPMENT · DIGITAL CREATIVITY`
+
+Designing and developing a website using digital tools and web technologies. Showcasing creativity, website organization, functionality, and user-friendly design.
+
+### 07 — RESUME GENERATING
+`PROFESSIONAL IDENTITY · CAREER DEVELOPMENT`
+
+Creating a professional resume that presents my educational background, qualifications, experiences, and skills in preparation for future career opportunities.
 
 ---
 
-## 👩🏻‍💻 About Me
+## THE PURPOSE
 
-| Details | Information |
-|:---|:---|
+This digital portfolio serves as a record of my learning journey in GE 4120. It reflects my progress in understanding technology, developing creative solutions, and applying digital tools in academic and professional environments.
+
+More than a collection of activities, this is a reflection of my willingness to learn, adapt, and grow in an increasingly digital world.
+
+---
+
+## A LITTLE ABOUT ME
+
+| | |
+|:--|:--|
 | **Name** | Jalene Nakano |
 | **Age** | 23 |
 | **Course** | Nursing |
-| **Subject** | GE 4120 – Electives: 21st Century IT Skills |
+| **Subject** | GE 4120 – 21st Century IT Skills |
 
 ---
 
-<p align="center">
-  <i>"Learning, creating, and growing through technology."</i> 🌹
-</p>
+<div align="center">
 
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━
-  <br>
-  <b>✨ THANK YOU FOR VISITING! ✨</b>
-  <br>
-  Thank you for exploring my GE 4120 digital portfolio.
-  <br>
-  I hope you enjoy discovering my activities and projects!
-  <br><br>
-  <b>Made with ♡ by Jalene Nakano</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4A0715&height=2&section=header" width="80%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=100&section=footer" width="100%" />
-</p>
+### A NOTE TO REMEMBER
+
+*"Elegance is not just in how things look, but in the thought, creativity, and purpose behind them."*
+
+<br>
+
+**THANK YOU FOR EXPLORING MY PORTFOLIO.**
+
+With love and creativity,
+
+### JALENE NAKANO ♡
+
+<sub>LEARN · CREATE · INNOVATE · GROW</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A0715&height=120&section=footer" width="100%" />
+
+</div>
+
+
+
 
