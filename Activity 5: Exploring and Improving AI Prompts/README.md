@@ -1,56 +1,41 @@
-# Activity: Exploring and Improving AI Prompts
+<h1 align="center">🌸 Exploring and Improving AI Prompts 🌸</h1>
 
-**Author:** Nakano Jalene
-
-This activity shows how a more detailed AI prompt produces a more specific and
-vibrant image than a short, simple one.
+<p align="center"><i>by Nakano Jalene</i></p>
 
 ---
 
-## Prompt 1: Simple Prompt
+<h3 align="center">🗻 Prompt 1</h3>
 
-> "Make me a photo of Japan."
+<p align="center"><b>"Make me a photo of Japan."</b></p>
 
-![Prompt 1 result: Mount Fuji, cherry blossoms, pagoda, sunset](images/prompt-1-japan.png)
+<p align="center">
+  <img src="images/prompt-1-japan.png" width="650">
+</p>
 
-**Result:** A beautiful image of Mount Fuji, cherry blossoms, a traditional
-Japanese pagoda, and a peaceful sunset.
-
----
-
-## Prompt 2: Improved Prompt
-
-> "A girl wearing a black and white kimono at a Sakura Festival, enjoying
-> takoyaki with Mount Fuji in the background. Also include colorful fireworks,
-> food stalls offering a variety of Japanese dishes, glowing lanterns, cherry
-> blossoms, and many people dressed in different colored kimonos. The main focus
-> is on the girl."
-
-![Prompt 2 result: girl in kimono eating takoyaki at a Sakura Festival](images/prompt-2-sakura-festival.png)
-
-I used ChatGPT, a Large Language Model (LLM), to enhance and improve my
-original prompt by adding more specific details.
+<p align="center">
+A peaceful scene of Mount Fuji, cherry blossoms, a traditional pagoda, and a sunset.
+</p>
 
 ---
 
-## Comparison
+<h3 align="center">🎆 Prompt 2</h3>
 
-| | Prompt 1 | Prompt 2 |
-|---|---|---|
-| **Style** | Simple | Detailed |
-| **Main focus** | Japan's scenery | The girl at the festival |
-| **Elements** | Mount Fuji, cherry blossoms, pagoda, sunset | Black and white kimono, takoyaki, fireworks, lanterns, food stalls, people in colorful kimonos |
-| **Mood** | Calm and peaceful | Vibrant and lively |
+<p align="center"><b>"A girl wearing a black and white kimono at a Sakura Festival, enjoying takoyaki with Mount Fuji in the background. Also include colorful fireworks, food stalls offering a variety of Japanese dishes, glowing lanterns, cherry blossoms, and many people dressed in different colored kimonos. The main focus is on the girl."</b></p>
 
-## Reflection
+<p align="center">
+  <img src="images/prompt-2-sakura-festival.png" width="650">
+</p>
 
-The first image was a simple depiction of Japan, featuring Mount Fuji, cherry
-blossoms, a traditional pagoda, and a beautiful sunset. For the second image, I
-used an LLM to add specific details such as the girl's kimono, takoyaki,
-fireworks, glowing lanterns, food stalls, and people in different colored
-kimonos. The main difference is that the first image focuses on Japan's scenery,
-while the second presents a more detailed, vibrant, and lively Sakura Festival,
-with the girl as the main subject.
+<p align="center">
+I used ChatGPT to improve my first prompt by adding more details.
+</p>
 
-**Takeaway:** The more specific the prompt, the closer the AI's output is to
-what you imagine.
+---
+
+<h3 align="center">🍡 Reflection</h3>
+
+<p align="center">
+The first image shows Japan's scenery, while the second is more detailed, vibrant,<br>
+and lively, a Sakura Festival with the girl as the main subject.<br><br>
+<i>The more specific the prompt, the better the result. 🌸</i>
+</p>
