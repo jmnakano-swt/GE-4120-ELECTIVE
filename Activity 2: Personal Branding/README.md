@@ -1,20 +1,39 @@
-## Activity 2: Color Palette and Typography
 
-### Introduction
+<div align="center">
 
-For Activity 2, I focused on creating a brand identity for a fictional brand called **"The Mori's Club."**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6E2638,35:C98F9D,65:F4D6DC,100:68704A&height=250&section=header&text=THE%20MORI'S%20CLUB&fontSize=48&fontColor=FFF9EF&fontAlignY=42&desc=COLOR%20PALETTE%20%26%20TYPOGRAPHY%20STUDY&descSize=13&descColor=FFF9EF&descAlignY=65" width="100%"/>
+
+<br>
+
+### 𓆩♡𓆪 BEAUTY IN EVERY DETAIL 𓆩♡𓆪
+
+*An exploration of color, typography, and brand identity.*
+
+<img src="https://img.shields.io/badge/ACTIVITY-02-6E2638?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-THE%20MORI'S%20CLUB-C98F9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOOL-CANVA-68704A?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌸 01. INTRODUCTION
+<sub>THE BEGINNING OF A BRAND IDENTITY</sub>
+
+For Activity 2, I focused on creating a brand identity for a fictional brand called **The Mori's Club**.
 
 This activity focused on developing a cohesive **color palette and typography system** that would represent the personality and identity of the brand.
 
-The goal was to create a visual identity that would communicate specific characteristics through design. Instead of choosing colors and fonts randomly, I considered how each visual element could contribute to the overall personality of the brand.
+Rather than choosing colors and fonts randomly, I considered how each visual element could contribute to the overall personality of the brand.
 
 The final output was a **Color Palette and Typography Set** that serves as a basic style guide for *The Mori's Club*.
 
 ---
 
-## Design Concept
+## 🎀 02. DESIGN CONCEPT
+<sub>SOFTNESS · FEMININITY · ELEGANCE</sub>
 
-The concept for **The Mori's Club** was to create a brand identity that feels:
+The concept behind **The Mori's Club** was to create a brand identity that feels:
 
 - Soft
 - Feminine
@@ -23,269 +42,227 @@ The concept for **The Mori's Club** was to create a brand identity that feels:
 - Clean
 - Sophisticated
 
-I wanted the overall visual identity to create the feeling of **clean beauty** while still maintaining a romantic and feminine character.
+I wanted the overall visual identity to communicate the feeling of **clean beauty** while maintaining a romantic and feminine character.
 
-The design uses a combination of soft pink tones, natural olive green, ivory, and a rich burgundy accent. Carefully selected typography is also used to communicate these qualities.
+The design combines soft pink tones, natural olive green, ivory, and a rich burgundy accent. Carefully selected typography completes the overall visual identity.
 
-The purpose of creating a consistent visual system is to make sure that the brand maintains the same look and feel across different materials and platforms.
+> **"A beautiful identity is created when every visual element tells the same story."**
 
-A consistent visual identity helps make a brand more recognizable, memorable, and professional.
-
----
-
-# Color Palette
-
-For the color palette, I selected **soft, feminine pastel tones combined with natural olive green, ivory, and a rich burgundy accent** to complement the personality of *The Mori's Club*.
-
-The main colors include:
-
-- **Burgundy – #6E2638**
-- **Dusty Rose – #C98F9D**
-- **Baby Pink – #F4D6DC**
-- **Olive Green – #68704A**
-- **Ivory – #FFF9EF**
-
-Each color was selected because it contributes a different quality to the overall brand identity.
-
-### Burgundy – #6E2638
-
-Burgundy serves as the **rich and sophisticated accent color** of the palette.
-
-It adds depth, confidence, elegance, and a sense of luxury to the softer colors. The deeper tone creates stronger visual emphasis and gives the brand a more mature and sophisticated character.
-
-Burgundy can be used for important headings, highlights, borders, logos, or other elements that need stronger visual attention.
-
-### Dusty Rose – #C98F9D
-
-Dusty rose represents the **feminine, romantic, and soft** qualities of the brand.
-
-Its muted appearance gives the color an elegant and mature feeling rather than appearing overly bright or playful.
-
-It works well as a supporting color because it adds warmth and femininity while complementing the burgundy and baby pink tones.
-
-### Baby Pink – #F4D6DC
-
-Baby pink adds a **delicate, gentle, and youthful** quality to the brand.
-
-The light pink tone strengthens the romantic and feminine concept while creating a soft visual atmosphere.
-
-It can be used as a background, secondary color, or subtle design element to create a light and welcoming appearance.
-
-### Olive Green – #68704A
-
-Olive green introduces a **natural and earthy element** into the color palette.
-
-Green can communicate nature, freshness, and balance, which supports the **clean beauty** concept of *The Mori's Club*.
-
-The muted olive tone also creates a sophisticated contrast with the pink shades and burgundy without making the palette feel too bright.
-
-### Ivory – #FFF9EF
-
-Ivory functions as the **main neutral and grounding color** within the palette.
-
-It creates a feeling of elegance, warmth, simplicity, and cleanliness.
-
-Unlike pure white, ivory has a softer and warmer appearance, allowing the other colors to stand out while maintaining a calm and sophisticated visual identity.
-
-It can also be used as a background color to keep the overall design clean and spacious.
-
-### Overall Color Palette
-
-Together, the five colors create a balanced and harmonious visual identity.
-
-The:
-
-- **Burgundy (#6E2638)** communicates richness, confidence, elegance, and sophistication.
-- **Dusty Rose (#C98F9D)** communicates femininity, warmth, softness, and romance.
-- **Baby Pink (#F4D6DC)** communicates delicacy, gentleness, and femininity.
-- **Olive Green (#68704A)** communicates nature, balance, freshness, and clean beauty.
-- **Ivory (#FFF9EF)** communicates elegance, simplicity, warmth, and cleanliness.
-
-The combination creates a palette that allows *The Mori's Club* to feel **soft and feminine while still having depth, elegance, and personality**.
-
-The burgundy provides a strong visual anchor, while the dusty rose and baby pink soften the overall appearance. Olive green introduces a natural quality, and ivory keeps the design clean and balanced.
+The goal was to create a consistent visual system that could be recognized across different platforms and brand materials.
 
 ---
 
-# Typography
+## 🎨 03. THE SIGNATURE COLOR PALETTE
 
-For the typography system, I selected **three distinct fonts**, with each font serving a different purpose.
+<div align="center">
 
-The three typography roles are:
+<img src="https://img.shields.io/badge/01-BURGUNDY-6E2638?style=for-the-badge&labelColor=3D1823"/>
+<img src="https://img.shields.io/badge/02-DUSTY%20ROSE-C98F9D?style=for-the-badge&labelColor=754653"/>
+<img src="https://img.shields.io/badge/03-BABY%20PINK-F4D6DC?style=for-the-badge&labelColor=B47D89"/>
 
-1. Display Font
-2. Body Font
-3. Accent Font
+<img src="https://img.shields.io/badge/04-OLIVE%20GREEN-68704A?style=for-the-badge&labelColor=39432B"/>
+<img src="https://img.shields.io/badge/05-IVORY-FFF9EF?style=for-the-badge&labelColor=9C8576"/>
 
-Using different fonts for specific purposes allows the brand to have visual variety while still maintaining a consistent identity.
+</div>
+
+The palette combines feminine pastel tones with natural and deeper shades to create a balanced and sophisticated identity.
+
+### 🍷 Burgundy
+**#6E2638**
+
+The rich and sophisticated accent of the palette.
+
+Burgundy communicates depth, confidence, elegance, and luxury. It adds visual strength to the softer colors and gives the brand a mature and refined character.
+
+*Best used for:* Main headings, logos, highlights, borders, and important visual elements.
+
+### 🌹 Dusty Rose
+**#C98F9D**
+
+The romantic and feminine supporting color.
+
+Its muted appearance gives the brand a soft and mature feeling without becoming overly bright or playful.
+
+*Best used for:* Supporting backgrounds, decorative details, labels, and secondary elements.
+
+### 🎀 Baby Pink
+**#F4D6DC**
+
+The delicate and gentle shade of the palette.
+
+Baby pink strengthens the romantic concept and creates a welcoming, soft visual atmosphere.
+
+*Best used for:* Backgrounds, soft highlights, cards, and decorative accents.
+
+### 🌿 Olive Green
+**#68704A**
+
+The natural and earthy element of the identity.
+
+Olive green communicates freshness, nature, and balance, supporting the clean beauty concept of the brand.
+
+*Best used for:* Botanical details, small accents, supporting graphics, and natural-themed elements.
+
+### 🕊️ Ivory
+**#FFF9EF**
+
+The neutral foundation of the palette.
+
+Ivory provides warmth, simplicity, and cleanliness. It balances the stronger colors and allows the entire design to breathe.
+
+*Best used for:* Main backgrounds, spacing, cards, and negative space.
 
 ---
 
-## 1. Display Font – Noto Serif Display Extra Condensed
+## 💗 04. COLOR HARMONY & BRAND PERSONALITY
 
-For the display or heading font, I selected **Noto Serif Display Extra Condensed**.
+The five colors work together to create a balanced visual identity.
 
-I chose this font because the **serif style** gives it a traditional, elegant, and sophisticated appearance.
+| Color | Brand Personality |
+|:---|:---|
+| 🍷 Burgundy | Luxury & sophistication |
+| 🌹 Dusty Rose | Romance & femininity |
+| 🎀 Baby Pink | Delicacy & softness |
+| 🌿 Olive Green | Nature & freshness |
+| 🕊️ Ivory | Cleanliness & simplicity |
 
-The serif details contribute to the **romantic** quality of the brand because they create a more classic and refined feeling.
+The burgundy acts as the visual anchor, while the two pink shades create a romantic atmosphere. Olive green adds a natural quality, and ivory keeps the overall design light and balanced.
 
-At the same time, the **extra condensed** style gives the font a modern and distinctive appearance.
+Together, they create a brand that feels **soft and feminine while still having depth, elegance, and personality**.
 
-This combination creates an interesting contrast between traditional elegance and modern design.
+---
 
-The result is a typography style that can give *The Mori's Club* a **high-fashion and editorial feel**.
+## ✒️ 05. THE TYPOGRAPHY COLLECTION
 
-This makes the display font suitable for:
+<sub>THREE FONTS · THREE PURPOSES · ONE IDENTITY</sub>
 
+Typography plays an important role in communicating the personality of a brand. For *The Mori's Club*, I selected three distinct font styles, each serving a specific purpose.
+
+### 01 — DISPLAY FONT
+
+**Noto Serif Display Extra Condensed**
+
+<blockquote>
+  <title size="2xl" color="#6E2638" italic weight="medium">The Mori's Club</title>
+  <text color="#A66B78" size="xs">ELEGANCE · ROMANCE · EDITORIAL</text>
+</blockquote>
+
+I selected this font because its serif style creates a traditional, elegant, and sophisticated appearance.
+
+Its extra condensed design also introduces a modern and distinctive character, creating a balance between classic elegance and contemporary design.
+
+**Purpose:**
 - Main headings
-- Titles
+- Brand titles
 - Brand statements
 - Large visual text
 - Important design elements
 
-The font helps establish the personality of the brand immediately when the viewer sees the heading.
-
----
-
-## 2. Body Font – Garet
-
-For the body font, I selected **Garet**.
-
-I chose Garet because it has a **clean, modern, and highly legible** appearance.
-
-While the display font provides elegance and personality, the body font needs to prioritize readability.
-
-Garet creates a nice contrast with the serif display font because it has a cleaner and more modern appearance.
-
-This supports the **clean beauty** aspect of the brand.
-
-The body font can be used for:
-
-- Descriptions
-- Supporting information
-- Paragraphs
-- Captions
-- Longer text
-- General brand communication
-
-Using a clean and readable font ensures that the audience can easily understand the information without being distracted by overly decorative typography.
-
----
-
-## 3. Accent Font
-
-For the accent font, I selected a more **playful and script-like typeface**.
-
-The purpose of the accent font is to add personality and visual interest to the brand without being used for large amounts of text.
-
-Unlike the display and body fonts, the accent font can be used more selectively for small highlights and decorative labels.
-
-This creates an additional layer of personality while still allowing the main typography to remain clean and organized.
-
-The accent font can be used for:
-
-- Small highlights
-- Labels
-- Short phrases
-- Decorative elements
-- Special emphasis
-
-Because it is used sparingly, it adds character to the design without overwhelming the other typography.
-
----
-
-# Typography System
-
-The three fonts work together by giving each one a specific role.
-
-### Display Font
-
-**Noto Serif Display Extra Condensed**
-
-Provides:
-
-- Elegance
-- Romance
-- Sophistication
-- Editorial style
-- Strong visual impact
-
-### Body Font
+### 02 — BODY FONT
 
 **Garet**
 
-Provides:
+<blockquote>
+  <title color="#68704A" size="xl" weight="medium">Simple beauty, timeless identity.</title>
+  <text color="#725E5E" size="sm">Clean typography makes information easier to read while maintaining a modern and sophisticated brand appearance.</text>
+</blockquote>
 
-- Cleanliness
-- Modernity
-- Readability
-- Simplicity
-- Professionalism
+Garet was selected because of its clean, modern, and highly legible appearance.
 
-### Accent Font
+It complements the serif display font by providing a more contemporary and minimal look.
+
+**Purpose:**
+- Descriptions
+- Paragraphs
+- Captions
+- Supporting information
+- General brand communication
+
+### 03 — ACCENT FONT
 
 **Script-like Accent Font**
 
-Provides:
+<blockquote>
+  <title color="#C98F9D" italic size="2xl" weight="medium">with love, always ♡</title>
+  <text color="#A66B78" size="xs">PERSONALITY · CREATIVITY · PLAYFULNESS</text>
+</blockquote>
 
-- Personality
-- Playfulness
-- Creativity
-- Decorative emphasis
-- Visual variety
+The accent font adds a playful and personal touch to the brand.
 
-Together, these fonts create a balanced typography system where each typeface has a clear purpose.
+Its script-like appearance creates visual interest and complements the elegant serif and clean body fonts.
+
+**Purpose:**
+- Small highlights
+- Short phrases
+- Decorative elements
+- Special emphasis
+- Brand details
 
 ---
 
-# Overall Effect of the Design
+## 🪞 06. TYPOGRAPHY SYSTEM
+
+The three typefaces work together by giving each one a specific role.
+
+| Typography | Function | Personality |
+|:---|:---|:---|
+| Noto Serif Display Extra Condensed | Display | Elegant & editorial |
+| Garet | Body | Clean & modern |
+| Script-like font | Accent | Romantic & playful |
+
+The combination provides visual variety while maintaining a consistent identity.
+
+---
+
+## 🌷 07. OVERALL BRAND IDENTITY
 
 The combination of the color palette and typography creates a unified identity for **The Mori's Club**.
 
-The colors establish the emotional and visual mood of the brand, while the typography communicates its personality and makes the information easier to organize.
+The soft pink tones establish femininity and romance, while olive green introduces nature and clean beauty.
 
-The soft pink tones create the feeling of **femininity and romance**, while the olive green introduces nature and clean beauty. Ivory keeps the overall design light, warm, and elegant, while burgundy adds depth, richness, and sophistication.
+Ivory keeps the design light and warm, while burgundy adds depth, richness, and sophistication.
 
-The typography adds elegance, modernity, readability, and personality.
+The typography completes the identity by balancing elegance, readability, and personality.
 
-The contrast between the serif display font and clean body font also prevents the design from becoming too plain or overly decorative.
+The final visual direction represents:
 
-Each element supports the same overall brand concept.
-
----
-
-# Brand Consistency
-
-One of the most important goals of this activity was to create **consistency**.
-
-A strong brand identity should look recognizable even when the content or application changes.
-
-By establishing a specific color palette and typography system, *The Mori's Club* can maintain the same visual identity across different materials.
-
-For example, the same colors and fonts could be used for:
-
-- Social media posts
-- Posters
-- Advertisements
-- Product packaging
-- Business cards
-- Presentations
-- Websites
-- Promotional materials
-
-This consistency helps the audience associate the visual elements with the brand.
+- ♡ Softness
+- 🌸 Femininity
+- 🌹 Romance
+- 🍷 Sophistication
+- 🌿 Natural beauty
+- ✨ Modern elegance
 
 ---
 
-# Reflection
+## 💌 08. BRAND CONSISTENCY
+
+A strong brand identity should remain recognizable even when the content or application changes.
+
+The established color palette and typography system can be applied consistently across different brand materials, including:
+
+| Application | Design Use |
+|:---|:---|
+| 📱 Social Media | Posts, stories, and announcements |
+| 🎁 Packaging | Product labels and boxes |
+| 💌 Business Cards | Brand identity and contact details |
+| 📰 Advertisements | Promotional materials |
+| 🌐 Website | Digital branding and layouts |
+| 📖 Presentations | Consistent visual communication |
+
+Maintaining these elements helps audiences recognize and remember the brand.
+
+---
+
+## 🧸 09. PERSONAL REFLECTION
 
 This activity helped me understand that creating a brand identity involves more than simply choosing colors and fonts that look attractive.
 
-Every design choice can communicate something about the brand.
+Every design choice can communicate something about a brand.
 
 The colors I selected were intended to communicate **softness, femininity, romance, nature, cleanliness, elegance, and sophistication**.
 
-The addition of burgundy helped give the palette more depth and allowed the brand to have a stronger accent color without losing its soft and feminine character.
+The addition of burgundy gave the palette more depth and allowed the brand to have a stronger accent without losing its soft and feminine character.
 
 Similarly, each font was assigned a specific role so that the typography would remain both visually interesting and functional.
 
@@ -297,61 +274,72 @@ This activity allowed me to think about design choices more intentionally and un
 
 ---
 
-# Key Takeaway
+## ✨ 10. KEY TAKEAWAY
 
-This activity demonstrated how **color and typography can be used to communicate a brand's personality and create a consistent visual identity**.
+This activity demonstrated how **color and typography can communicate a brand's personality and create a consistent visual identity**.
 
-For *The Mori's Club*, the combination of soft pink tones, olive green, ivory, burgundy, and three complementary fonts creates a brand that feels:
+For *The Mori's Club*, the combination of five complementary colors and three typography styles creates a brand that feels soft, feminine, elegant, romantic, modern, clean, and sophisticated.
 
-- Soft
-- Feminine
-- Elegant
-- Romantic
-- Modern
-- Clean
-- Sophisticated
+The color palette establishes the emotional mood, while typography creates structure, readability, and personality.
 
-The **color palette** establishes the emotional mood of the brand, while the **typography system** creates structure, readability, and personality.
-
-Ultimately, I learned that a successful visual identity is not simply about choosing elements that look good individually. It is about making sure that all of the elements work together to communicate one clear and memorable identity.
+> **A successful visual identity is not just about choosing beautiful elements. It is about making every element work together to tell one clear and memorable story.**
 
 ---
 
-## Tools Used
+## 🛠️ 11. TOOLS USED
 
-- **Canva** – used to create the brand identity and style guide
-- Color palette selection
-- Typography selection
-- Layout and visual organization
-- Brand identity principles
+- **Canva** – Used to create the brand identity and style guide.
+- Color palette selection.
+- Typography selection.
+- Layout and visual organization.
+- Brand identity principles.
 
 ---
 
-## Project Summary
+## 📋 PROJECT DETAILS
 
 | Category | Details |
-|---|---|
-| **Activity** | Activity 2 – Color Palette and Typography |
-| **Project** | The Mori's Club |
-| **Design Tool** | Canva |
-| **Main Concept** | Soft, feminine, elegant, romantic, and clean beauty |
-| **Color Palette** | Burgundy #6E2638, Dusty Rose #C98F9D, Baby Pink #F4D6DC, Olive Green #68704A, Ivory #FFF9EF |
-| **Display Font** | Noto Serif Display Extra Condensed |
-| **Body Font** | Garet |
-| **Accent Font** | Script-like Accent Font |
-| **Design Focus** | Brand identity and visual consistency |
+|:---|:---|
+| Activity | Activity 2 – Color Palette and Typography |
+| Project | The Mori's Club |
+| Design Tool | Canva |
+| Main Concept | Feminine luxury & clean beauty |
+| Burgundy | #6E2638 |
+| Dusty Rose | #C98F9D |
+| Baby Pink | #F4D6DC |
+| Olive Green | #68704A |
+| Ivory | #FFF9EF |
+| Display Font | Noto Serif Display Extra Condensed |
+| Body Font | Garet |
+| Accent Font | Script-like Accent Font |
+| Design Focus | Brand identity & visual consistency |
 
-> **Note:** The purpose of this activity was to develop a cohesive color palette and typography system that visually represents the personality and identity of the fictional brand, *The Mori's Club*. The selected colors—**Burgundy (#6E2638), Dusty Rose (#C98F9D), Baby Pink (#F4D6DC), Olive Green (#68704A), and Ivory (#FFF9EF)**—work together to create a soft, feminine, elegant, romantic, and sophisticated visual identity.
+> **Note:** The purpose of this activity was to develop a cohesive color palette and typography system that visually represents the personality and identity of the fictional brand, *The Mori's Club*.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2638,50:C98F9D,100:68704A&height=3&section=header" width="85%"/>
+
+### ♡ THANK YOU FOR VISITING ♡
+
+*Softness in every detail. Elegance in every choice.*
+
+**THE MORI'S CLUB**
+
+<sub>CREATED WITH LOVE BY JALENE NAKANO</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E2638,40:C98F9D,75:F4D6DC,100:68704A&height=120&section=footer" width="100%"/>
+
+</div>
 
 
 
 
-
-
-
-
-
-
+ 
 
 
 
